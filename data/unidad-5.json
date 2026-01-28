@@ -1,0 +1,126 @@
+{
+  "unidad": 5,
+  "titulo": "Autoevaluación Unidad 5 - Contabilidad Financiera",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "¿Cuál de los siguientes libros contables es obligatorio?",
+      "opciones": {
+        "a": "El libro Mayor.",
+        "b": "El libro Diario.",
+        "c": "El libro de reuniones.",
+        "d": "El libro de entradas."
+      },
+      "explicacion": "Según la legislación mercantil (como el Código de Comercio en España), los libros obligatorios para los empresarios son el Libro Diario y el Libro de Inventarios y Cuentas Anuales. El Libro Mayor, aunque es esencial para la contabilidad práctica, no es legalmente obligatorio.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Adeudar o debitar una cuenta significa:",
+      "opciones": {
+        "a": "Realizar una anotación en el haber.",
+        "b": "Determinar el saldo de la misma.",
+        "c": "Realizar una anotación en el debe de la misma.",
+        "d": "Ninguna de las anteriores, dado que son dos conceptos contradictorios."
+      },
+      "explicacion": "En contabilidad, una cuenta tiene dos partes: Debe (izquierda) y Haber (derecha). 'Adeudar', 'debitar' o 'cargar' son sinónimos que significan realizar una anotación en el lado del Debe. Por el contrario, anotar en el Haber se llama 'abonar' o 'acreditar'.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 3,
+      "pregunta": "El Patrimonio Neto representa:",
+      "opciones": {
+        "a": "Los bienes y derechos propiedad de la empresa.",
+        "b": "Las deudas con vencimiento a corto plazo de la empresa.",
+        "c": "Exclusivamente las aportaciones de los socios.",
+        "d": "Ninguna de las anteriores."
+      },
+      "explicacion": "La opción 'a' define el Activo y la 'b' el Pasivo Corriente. La opción 'c' es incorrecta porque el Patrimonio Neto no son *exclusivamente* las aportaciones de los socios; también incluye la autofinanciación (reservas generadas por beneficios no distribuidos) y otros ajustes. Por tanto, la respuesta correcta es 'Ninguna de las anteriores'.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "El libro que recoge las operaciones cronológicas de la empresa es:",
+      "opciones": {
+        "a": "El mayor.",
+        "b": "El diario.",
+        "c": "El inventario.",
+        "d": "Las sumas y saldos."
+      },
+      "explicacion": "La función principal del Libro Diario es registrar día a día (cronológicamente) todas las operaciones relativas a la actividad de la empresa.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Las cuentas de pasivo:",
+      "opciones": {
+        "a": "Nacen por el haber.",
+        "b": "Se incrementan por el debe.",
+        "c": "Sólo pueden presentar saldo deudor o saldo cero.",
+        "d": "Nacen por el debe."
+      },
+      "explicacion": "Las cuentas de Pasivo representan obligaciones y deudas. Por convenio contable, estas cuentas nacen y aumentan con anotaciones en el Haber (lado derecho) y disminuyen por el Debe. Su saldo normal es acreedor.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 6,
+      "pregunta": "La adquisición de una maquinaria realizando su pago al contado implica:",
+      "opciones": {
+        "a": "Un incremento del activo.",
+        "b": "Un incremento del pasivo.",
+        "c": "No existe variación patrimonial.",
+        "d": "Una disminución del patrimonio neto."
+      },
+      "explicacion": "Esta operación es un hecho contable permutativo de activo: aumenta un activo (Maquinaria) y disminuye otro activo (Tesorería/Caja) por el mismo importe. Al no haber ingresos ni gastos, ni cambios en el pasivo, el valor total del Patrimonio Neto (riqueza de la empresa) permanece constante.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "La obtención de un préstamo bancario se refleja como:",
+      "opciones": {
+        "a": "Un incremento del activo.",
+        "b": "Un incremento del patrimonio neto.",
+        "c": "Una disminución del pasivo.",
+        "d": "Una disminución de la cuenta de reservas."
+      },
+      "explicacion": "Al obtener un préstamo, la empresa recibe dinero (tesorería), lo que provoca un aumento inmediato en sus cuentas de Activo. Aunque también aumenta el Pasivo (la deuda), la opción 'a' es la única correcta entre las mostradas que describe uno de los efectos directos.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 8,
+      "pregunta": "La empresa que ha tenido un beneficio:",
+      "opciones": {
+        "a": "Quedará reflejado en su pasivo.",
+        "b": "Aumentará su patrimonio neto.",
+        "c": "Disminuirá su cuenta de reservas.",
+        "d": "Reducirá sus gastos."
+      },
+      "explicacion": "El beneficio neto obtenido por una empresa se integra en el balance dentro del Patrimonio Neto (fondos propios), ya sea como resultado del ejercicio o destinado a reservas, aumentando así el valor total del patrimonio.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Los ingresos se recogerán siempre en:",
+      "opciones": {
+        "a": "El DEBE.",
+        "b": "El HABER.",
+        "c": "Depende de su naturaleza.",
+        "d": "Solo se registrarán en el pasivo."
+      },
+      "explicacion": "Según las reglas de la partida doble en contabilidad, las cuentas de Ingresos (Grupo 7) nacen y crecen por el Haber (lado derecho), mientras que los Gastos se registran en el Debe.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "La cuenta de Capital Social se incrementa:",
+      "opciones": {
+        "a": "Mediante incrementos de ventas.",
+        "b": "A través de la disminución de los gastos.",
+        "c": "A través de una aportación de los socios.",
+        "d": "Mediante la venta de activos."
+      },
+      "explicacion": "El Capital Social representa la financiación propia aportada por los dueños. Su incremento se produce específicamente cuando los socios realizan nuevas aportaciones de recursos a la empresa (ampliaciones de capital).",
+      "respuesta_correcta": "c"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "unidad": 8,
+  "titulo": "Autoevaluación Unidad 8 - Contabilidad Financiera",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "El balance de situación refleja",
+      "opciones": {
+        "a": "La situación económica y financiera del momento en que se presenta.",
+        "b": "Si se han pasado correctamente todos los asientos a Mayor.",
+        "c": "El estado de la empresa al principio del período.",
+        "d": null
+      },
+      "explicacion": "El balance de situación es un estado contable estático que muestra la imagen del patrimonio de la empresa (activos, pasivos y patrimonio neto) en una fecha concreta, es decir, su situación económico-financiera en ese instante preciso.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 2,
+      "pregunta": "¿Cuántos balances de situación han de realizarse de forma obligatoria a lo largo de un ejercicio?",
+      "opciones": {
+        "a": "Tantos como se necesiten.",
+        "b": "Uno, al principio del período.",
+        "c": "Uno, al finalizar el período.",
+        "d": "Dos, uno al inicio y otro al final."
+      },
+      "explicacion": "Legalmente, las empresas están obligadas a formular las Cuentas Anuales al cierre del ejercicio económico. Estas cuentas incluyen el Balance de Situación final que refleja el estado de la empresa al terminar el periodo.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 3,
+      "pregunta": "¿Cuántos balances de situación pueden hacerse en un año?",
+      "opciones": {
+        "a": "Uno.",
+        "b": "Dos.",
+        "c": "Cien.",
+        "d": "Los que sean necesarios."
+      },
+      "explicacion": "Aunque existe una obligación legal de presentar uno al final del ejercicio, la empresa puede elaborar tantos balances de situación como considere necesarios internamente para controlar su gestión y tomar decisiones.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "¿Se puede efectuar el balance de situación sin que se haya realizado el proceso de regularización?",
+      "opciones": {
+        "a": "Sí, si nos corre prisa.",
+        "b": "No, porque sería un balance de comprobación.",
+        "c": "Sí, si tenemos abierto el libro Mayor.",
+        "d": "No, porque antes hay que repartir beneficios."
+      },
+      "explicacion": "El proceso de regularización consiste en cerrar las cuentas de gastos e ingresos para determinar el resultado del ejercicio. Si no se hace esto, el balance no mostraría el resultado final en el Patrimonio Neto y las cuentas de gestión seguirían abiertas; por tanto, técnicamente sería un Balance de Comprobación de Sumas y Saldos, no un Balance de Situación final.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Una vez realizado el balance de situación, ¿puede quedar abierta alguna cuenta de Gastos?",
+      "opciones": {
+        "a": "Sí, todas.",
+        "b": "No, ninguna.",
+        "c": "Sí, si reflejan gastos de personal.",
+        "d": "Sí, si reflejan impuestos aún no pagados."
+      },
+      "explicacion": "Para formular el balance de situación final, previamente se debe haber realizado el asiento de regularización, el cual salda (deja a cero) todas las cuentas de los grupos 6 (Gastos) y 7 (Ingresos) contra la cuenta de Resultado del Ejercicio. Por tanto, ninguna cuenta de gastos puede tener saldo.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Podrán formular balance abreviado las empresas:",
+      "opciones": {
+        "a": "Cuyo total activo sea inferior a 2.850.000 €.",
+        "b": "Cuyo total pasivo sea superior a 2.850.000 €.",
+        "c": "El número medio de trabajadores debe ser inferior a 100.",
+        "d": "El patrimonio neto debe ser inferior a 11.400.000 C"
+      },
+      "explicacion": "Según la normativa del Plan General Contable (en el contexto de la fecha de este examen), uno de los límites para poder formular balance abreviado es que el total de las partidas del activo no supere una cifra determinada (históricamente 2.850.000 €, aunque estos límites se actualizan periódicamente).",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Con el plan contable para PYMES se ha pretendido:",
+      "opciones": {
+        "a": "Mejorar la eficiencia de las empresas.",
+        "b": "Abaratar costes de gestión en las PYMES.",
+        "c": "Crear diferentes modelos de contabilidad según las dimensiones de la empresa.",
+        "d": "Simplificar aspectos puntuales en la contabilidad de las PYMES."
+      },
+      "explicacion": "El objetivo principal del Plan General de Contabilidad de PYMES es simplificar las obligaciones contables y los criterios de registro y valoración para las pequeñas y medianas empresas, facilitando su gestión administrativa sin perder la imagen fiel.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "El Plan General de Contabilidad de Pequeñas y Medianas Empresas tiene carácter:",
+      "opciones": {
+        "a": "Obligatorio.",
+        "b": "Voluntario.",
+        "c": "Obligatorio si la empresa ha emitido valores admitidos a negociación.",
+        "d": "Voluntario si factura más de 2.850.000 €."
+      },
+      "explicacion": "La aplicación del PGC de PYMES es voluntaria para aquellas empresas que cumplan los requisitos establecidos (límites de activo, cifra de negocios y número de trabajadores). Si una empresa cumple los requisitos, puede elegir entre aplicar el PGC de PYMES o el PGC normal, pero no está obligada a usar el de PYMES.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Si una empresa aplica el plan contable de PYMES debe hacerlo:",
+      "opciones": {
+        "a": "De forma continuada en el tiempo.",
+        "b": "Al ser voluntario, puede aplicarlo cuando quiera.",
+        "c": "Durante un periodo continuado de tres años.",
+        "d": "Cada dos ejercicios."
+      },
+      "explicacion": "Según la normativa (Real Decreto 1515/2007), la opción de aplicar el PGC de PYMES debe mantenerse de forma continuada durante un mínimo de tres ejercicios, salvo que durante dicho período la empresa deje de cumplir los requisitos para acogerse a él.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Una diferencia fundamental del plan contable de PYMES respecto al PGC es:",
+      "opciones": {
+        "a": "Obligación de presentar EFE.",
+        "b": "Eliminación del estado de ingresos y gastos reconocidos.",
+        "c": "No obligación de presentar la memoria.",
+        "d": "No existe ninguna diferencia entre ambos planes contables."
+      },
+      "explicacion": "En el PGC de PYMES se simplifican las cuentas anuales. Una de las diferencias clave es la eliminación del 'Estado de ingresos y gastos reconocidos' dentro del Estado de Cambios en el Patrimonio Neto, documento que sí es obligatorio en el PGC normal.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

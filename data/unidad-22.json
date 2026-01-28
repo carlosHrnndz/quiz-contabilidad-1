@@ -1,0 +1,66 @@
+{
+  "unidad": 22,
+  "titulo": "Autoevaluación de Contabilidad en Moneda Extranjera",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "El importe de la amortización de un inmovilizado que fue adquirido en moneda extranjera se calculará por su importe en euros aplicando el tipo de cambio de la fecha de registro inicial:",
+      "opciones": {
+        "a": "Falso, se aplica el tipo de cambio al cierre.",
+        "b": "Verdadero.",
+        "c": "Verdadero, pero se debe reconocer un beneficio.",
+        "d": "Verdadero, pero se debe reconocer una pérdida."
+      },
+      "explicacion": "Los activos no monetarios, como el inmovilizado material, se registran inicialmente al tipo de cambio de la fecha de transacción y no se revalorizan por cambios en la moneda. Por tanto, su amortización se basa siempre en ese coste histórico convertido a euros originalmente.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "El cálculo del importe por deterioro del inmovilizado, si es que lo hay, se calculará en función del tipo de cambio al cierre:",
+      "opciones": {
+        "a": "Falso, se calcula a tipo de cambio del registro inicial.",
+        "b": "Falso, se calcula a tipo de cambio medio.",
+        "c": "Verdadero.",
+        "d": "Verdadero, pero se debe reconocer una ganancia."
+      },
+      "explicacion": "Para determinar si existe deterioro, se debe comparar el valor contable con el valor recuperable. Como el valor recuperable se estima en el momento actual (al cierre), es necesario utilizar el tipo de cambio vigente en esa fecha para reflejar la realidad económica del activo.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 3,
+      "pregunta": "De los siguientes elementos patrimoniales, marcar los que se consideran partidas monetarias en función de la norma de registro y valoración de la moneda extranjera:",
+      "opciones": {
+        "a": "Clientes.",
+        "b": "Inversiones inmobiliarias.",
+        "c": "Deuda pública.",
+        "d": "Fondo de Comercio."
+      },
+      "explicacion": "Las partidas monetarias son aquellas que representan el derecho a recibir o la obligación de pagar una cantidad fija o determinable de unidades monetarias. La deuda pública, al ser un activo financiero de renta fija, se clasifica como tal.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Una empresa dedicada a la comercialización de mercaderías vende durante el mes de abril 1.000, 1.020 y 990 unidades a 17, 17,5 y 18 dólares americanos respectivamente. El tipo de cambio en la primera venta era 1,3, en la segunda 1,2 y en la tercera 1,3. ¿Por qué importe realizará el asiento contable la empresa, suponiendo que utiliza el tipo de cambio de cada una de las transacciones?",
+      "opciones": {
+        "a": "66.680 €.",
+        "b": "22.100 €.",
+        "c": "52.670 $.",
+        "d": "17.820 $."
+      },
+      "explicacion": "Se debe calcular el valor en euros de cada venta multiplicando las unidades por el precio en dólares y luego por el tipo de cambio: (1000*17*1,3) + (1020*17,5*1,2) + (990*18*1,3) = 22.100 + 21.420 + 23.166 = 66.686 €. El valor más cercano en las opciones es 66.680 €.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 5,
+      "pregunta": "A los efectos de las Normas de Registro y Valoración \"Moneda Extranjera\", contenidas en el Plan General de Contabilidad, ¿cuál de las siguientes partidas se considera monetaria?",
+      "opciones": {
+        "a": "Las existencias.",
+        "b": "Los inmovilizados materiales.",
+        "c": "Un crédito sobre un cliente.",
+        "d": "Ninguna de las demás opciones es correcta."
+      },
+      "explicacion": "Un crédito sobre un cliente representa un derecho de cobro de una cantidad de dinero ya pactada. Al ser un flujo de efectivo futuro fijado contractualmente, cumple perfectamente con la definición de partida monetaria según el PGC.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}

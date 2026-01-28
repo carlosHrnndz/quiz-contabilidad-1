@@ -1,0 +1,126 @@
+{
+  "unidad": 7,
+  "titulo": "Autoevaluación Unidad 7 - Contabilidad Financiera",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "La periodificación contable está directamente relacionada con:",
+      "opciones": {
+        "a": "El principio de devengo.",
+        "b": "El principio de prudencia.",
+        "c": "El principio de uniformidad.",
+        "d": "El principio de importancia relativa."
+      },
+      "explicacion": "La periodificación contable surge de la aplicación del principio de devengo, el cual establece que los hechos económicos deben registrarse cuando ocurren, independientemente de la fecha de su pago o cobro. La periodificación ajusta los ingresos y gastos al ejercicio real al que corresponden.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 2,
+      "pregunta": "¿Cuál de las siguientes afirmaciones es correcta?",
+      "opciones": {
+        "a": "Todos los ingresos y gastos se trasladan a la Cuenta de Pérdidas y Ganancias.",
+        "b": "Todos los ingresos y gastos se trasladan a la Cuenta de Pérdidas y Ganancias excepto cuando se imputen al Estado de Cambios en el Patrimonio Neto.",
+        "c": "La periodificación contable pretende aplicar un criterio de caja para contabilizar los gastos e ingresos.",
+        "d": "El concepto de gasto y pérdida no presenta ninguna diferencia."
+      },
+      "explicacion": "Según el Plan General Contable, aunque la mayoría de ingresos y gastos van a la cuenta de PyG, existen ciertos ingresos y gastos (como subvenciones o ajustes por valoración) que se imputan directamente al Patrimonio Neto a través del Estado de Cambios en el Patrimonio Neto.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "El asiento de apertura:",
+      "opciones": {
+        "a": "Es un asiento que se realiza solamente al comenzar la empresa su actividad.",
+        "b": "Se realiza al finalizar el año.",
+        "c": "Es el primer asiento contable de cada ejercicio.",
+        "d": "Refleja las variaciones patrimoniales."
+      },
+      "explicacion": "El asiento de apertura es el registro contable que inicia el ciclo contable de un ejercicio económico. Se realiza al principio del periodo (normalmente el 1 de enero) y recoge los saldos de las cuentas de balance que quedaron al cierre del ejercicio anterior.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 4,
+      "pregunta": "El asiento de regularización tiene como objeto:",
+      "opciones": {
+        "a": "Cerrar el ejercicio.",
+        "b": "Anotar los gastos.",
+        "c": "Reflejar los activos.",
+        "d": "Informar sobre el resultado obtenido por la empresa."
+      },
+      "explicacion": "La regularización consiste en saldar las cuentas de gestión (ingresos y gastos) para determinar el beneficio o pérdida del periodo. Su objetivo principal es calcular e informar sobre el resultado del ejercicio antes de proceder al cierre de las cuentas de balance.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "La periodificación contable consiste en:",
+      "opciones": {
+        "a": "Ajustar las cuentas según cada saldo.",
+        "b": "Reflejar las amortizaciones.",
+        "c": "Delimitar los gastos e ingresos de una empresa que corresponden a un periodo determinado cuyo resultado quiere conocer.",
+        "d": "El asiento de cierre de cuentas."
+      },
+      "explicacion": "La periodificación es el proceso de asignar los ingresos y gastos al periodo contable correcto. Permite delimitar qué parte de un gasto o ingreso corresponde al ejercicio actual y qué parte corresponde a ejercicios futuros, asegurando que el resultado refleje la realidad económica del periodo.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Un ejemplo de periodificación podría ser:",
+      "opciones": {
+        "a": "Unos gastos pagados anticipadamente que todavía no se han incurrido.",
+        "b": "Unas ventas realizadas y cobradas.",
+        "c": "La compra de un mobiliario para la oficina.",
+        "d": "La obtención de un préstamo bancario."
+      },
+      "explicacion": "Los gastos pagados anticipadamente son el ejemplo clásico de periodificación. Aunque el flujo de caja (pago) ya ocurrió, el hecho económico (el consumo del servicio o bien) ocurrirá en el futuro, por lo que contablemente se debe diferir el gasto mediante la periodificación.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Las periodificaciones pueden afectar al:",
+      "opciones": {
+        "a": "Devengo.",
+        "b": "Pasivo.",
+        "c": "No afectan a los gastos.",
+        "d": "Prestamos bancarios."
+      },
+      "explicacion": "Las periodificaciones (ajustes por periodificación) tienen como objetivo imputar los ingresos y gastos al ejercicio que corresponden. Esto a menudo implica reconocer pasivos (como gastos devengados y no pagados o ingresos cobrados por anticipado) o activos (gastos anticipados o ingresos devengados no cobrados) en el balance de situación.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Al final del ejercicio, los gastos financieros de un préstamo son de 400€. El banco no pasará el recibo de 550€ hasta el 1 feb. El asiento implicaría:",
+      "opciones": {
+        "a": "Reconocimiento de un ingreso por 400 €.",
+        "b": "Reconocimiento de un gasto por 400 €.",
+        "c": "No hace falta realizar un apunte contable.",
+        "d": "Reconocimiento de un gasto por 550 €."
+      },
+      "explicacion": "Según el principio de devengo, los gastos deben registrarse cuando ocurren, independientemente de cuándo se paguen. Dado que los gastos financieros devengados en el ejercicio actual son 400€, se debe reconocer ese gasto de 400€ ahora, aunque el pago total del recibo sea posterior o por un importe mayor.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Una venta realizada pero no cobrada debe reconocerse por el principio de:",
+      "opciones": {
+        "a": "No debe reconocerse contablemente.",
+        "b": "Devengo.",
+        "c": "La periodificación contable.",
+        "d": "Solo se reconoce si se han realizado pagos previos."
+      },
+      "explicacion": "El principio de devengo establece que los hechos económicos se registran cuando ocurren (cuando nace el derecho o la obligación), no cuando se produce el flujo de efectivo (cobro o pago). Por tanto, una venta se reconoce en el momento de la transacción, aunque no se haya cobrado.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "En contabilidad siempre hay que aplicar la periodificación:",
+      "opciones": {
+        "a": "Verdadero.",
+        "b": "Falso.",
+        "c": "Solo cuando existe un desfase entre cobros y ventas.",
+        "d": "Solo cuando existe un desfase entre gastos y pagos."
+      },
+      "explicacion": "La periodificación es un proceso obligatorio al cierre del ejercicio contable para asegurar que los ingresos y gastos se asignen al periodo correcto, cumpliendo con el principio de devengo y reflejando la imagen fiel de la empresa.",
+      "respuesta_correcta": "a"
+    }
+  ]
+}

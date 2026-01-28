@@ -1,0 +1,126 @@
+{
+  "unidad": 4,
+  "titulo": "Autoevaluación de Contabilidad Financiera",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "El registro de elementos contables cumple el requisito de fiabilidad cuando:",
+      "opciones": {
+        "a": "Existe posibilidad de beneficios futuros.",
+        "b": "Su valor puede determinarse de forma fiable.",
+        "c": "Se tiene confianza en su integridad.",
+        "d": "No hay errores."
+      },
+      "explicacion": "Para que un elemento (activo, pasivo, ingreso o gasto) pueda ser registrado en las cuentas anuales, además de cumplir con su definición, debe cumplir el criterio de reconocimiento que exige que su valor pueda ser determinado con un grado razonable de fiabilidad. Sin una valoración fiable, la información no sería útil.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "El reconocimiento contable de un activo implica:",
+      "opciones": {
+        "a": "El reconocimiento simultáneo de un pasivo.",
+        "b": "El incremento de otro activo.",
+        "c": "No afecta a los ingresos.",
+        "d": "Un incremento del balance."
+      },
+      "explicacion": "En el sistema de partida doble, la adquisición de un activo suele financiarse mediante la asunción de una obligación (pasivo), como una compra a crédito. Aunque también podría implicar la disminución de otro activo (pago al contado), en el contexto de las opciones dadas, la contrapartida lógica presentada es el pasivo.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 3,
+      "pregunta": "El reconocimiento contable de un pasivo implica:",
+      "opciones": {
+        "a": "El reconocimiento simultáneo de un activo.",
+        "b": "La disminución de otro activo.",
+        "c": "El reconocimiento de un ingreso.",
+        "d": "Un incremento del balance."
+      },
+      "explicacion": "Al igual que en la pregunta anterior, al contraer una deuda (pasivo), la empresa generalmente recibe algo a cambio, como dinero en efectivo o mercancías, lo cual constituye el reconocimiento simultáneo de un activo.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 4,
+      "pregunta": "El reconocimiento contable de un ingreso implica:",
+      "opciones": {
+        "a": "El reconocimiento simultáneo o el incremento de un activo.",
+        "b": "La disminución de un pasivo.",
+        "c": "a y b.",
+        "d": "Entrada de tesorería en la empresa."
+      },
+      "explicacion": "Un ingreso representa un incremento en el patrimonio neto. Contablemente, para que la ecuación cuadre, este incremento debe reflejarse bien como un aumento de los activos (ej. cobrar una venta) o como una disminución de los pasivos (ej. prestar un servicio para cancelar una deuda). Por tanto, ambas opciones son válidas.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "El reconocimiento contable de un gasto implica siempre:",
+      "opciones": {
+        "a": "La disminución del resultado.",
+        "b": "La disminución de un activo.",
+        "c": "El reconocimiento de un ingreso.",
+        "d": "Todas las anteriores."
+      },
+      "explicacion": "Por definición, los gastos son decrementos en el patrimonio neto de la empresa durante el ejercicio, lo que se traduce directamente en una disminución del resultado del periodo (beneficio). Aunque a menudo implican salida de activos o aumento de pasivos, el efecto constante e intrínseco es la reducción del resultado.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 6,
+      "pregunta": "El coste histórico implica:",
+      "opciones": {
+        "a": "Su precio de venta final.",
+        "b": "Su valor inicia únicamente.",
+        "c": "Su coste de producción.",
+        "d": "Sólo su coste de distribución."
+      },
+      "explicacion": "El coste histórico o coste de adquisición es el precio original pagado por un activo en el momento de su adquisición o producción. Se refiere a su valor inicial registrado en libros, en contraposición a valores corrientes o de mercado posteriores.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 7,
+      "pregunta": "El valor neto realizable de un activo representa:",
+      "opciones": {
+        "a": "El importe que se puede obtener por su enajenación en el mercado.",
+        "b": "El valor histórico.",
+        "c": "El precio de adquisición.",
+        "d": "Su valor de reposición."
+      },
+      "explicacion": "El valor neto realizable es el importe que la empresa puede obtener por la venta del activo en el mercado, en el curso normal del negocio, deduciendo los costes estimados necesarios para llevar a cabo dicha venta. Se distingue del coste histórico o de reposición.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 8,
+      "pregunta": "El valor contable de un activo:",
+      "opciones": {
+        "a": "Refleja su coste actual",
+        "b": "Representa el importe neto por el que un activo se encuentra registrado contablemente, una vez deducida su amortización acumulada.",
+        "c": "Es el valor actual del activo corregido por el efecto de la inflación.",
+        "d": "Es un valor aproximado según las técnicas de cálculo determinadas por la Hacienda Pública."
+      },
+      "explicacion": "El valor contable (o valor en libros) es el valor por el que un activo figura en el balance de situación. Se calcula tomando el precio de adquisición o coste de producción original y restándole la amortización acumulada y cualquier corrección valorativa por deterioro.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "El valor residual de un activo:",
+      "opciones": {
+        "a": "Es el valor final de un bien.",
+        "b": "Nunca recogerá el valor real del activo.",
+        "c": "Es el valor al que se puede liquidar en el mercado en cualquier momento.",
+        "d": "Es el importe que la empresa estima que podría obtener por la venta de un activo, llegado al final de su vida útil."
+      },
+      "explicacion": "El valor residual es la estimación del valor que tendrá el activo al final de su vida útil para la empresa. Es el importe que se espera recuperar por su venta o desecho una vez que el activo haya dejado de ser operativo, descontando los costes de venta.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 10,
+      "pregunta": "¿Cuál de los siguientes elementos no se considera como un principio o norma de contabilidad generalmente aceptado?",
+      "opciones": {
+        "a": "La normativa fiscal.",
+        "b": "El Código de Comercio y la restante legislación mercantil Su similitud con otros criterios contables.",
+        "c": "El PGC y sus adaptaciones sectoriales.",
+        "d": "Las normas de desarrollo que, en materia contable, establezca en su caso el Instituto de Contabilidad y Auditoría de Cuentas."
+      },
+      "explicacion": "La normativa fiscal se rige por leyes tributarias con fines recaudatorios y no se considera un principio contable generalmente aceptado (PCGA). La contabilidad busca la 'imagen fiel' del patrimonio basándose en el Código de Comercio, el Plan General de Contabilidad (PGC) y las resoluciones del ICAC, independientemente de las reglas fiscales.",
+      "respuesta_correcta": "a"
+    }
+  ]
+}

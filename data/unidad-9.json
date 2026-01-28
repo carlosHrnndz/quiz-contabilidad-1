@@ -1,0 +1,126 @@
+{
+  "unidad": 9,
+  "titulo": "Autoevaluación Unidad 9 - Contabilidad Financiera",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Según el PGC 2007 y el PGC de PYMES 2007, los bienes comprendidos en el Inmovilizado material se valorarán por su:",
+      "opciones": {
+        "a": "Valor residual.",
+        "b": "Valor razonable.",
+        "c": "Coste, ya sea éste su precio de adquisición o coste de producción.",
+        "d": "Valor actual."
+      },
+      "explicacion": "Según la norma de registro y valoración del Plan General de Contabilidad, la valoración inicial del inmovilizado material se realiza al coste. Este coste puede ser el precio de adquisición (si se compra a terceros) o el coste de producción (si es fabricado por la propia empresa).",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 2,
+      "pregunta": "De acuerdo con el Plan General de Contabilidad señala la proposición correcta en relación con el IVA en la valoración del Inmovilizado material:",
+      "opciones": {
+        "a": "Formará parte del precio de adquisición o del coste de producción únicamente para activos específicos, como los equipos para proceso de información.",
+        "b": "Formará parte del precio de adquisición o del coste de producción en cualquier caso.",
+        "c": "Se incluirá en el precio de adquisición o coste de producción si no es recuperable directamente de la Hacienda Pública.",
+        "d": "En ningún caso podrá formar parte del precio de adquisición o del coste de producción."
+      },
+      "explicacion": "El IVA soportado solo forma parte del coste del activo cuando no es deducible (no recuperable). Si la empresa puede deducirse el IVA, este se registra en una cuenta de Hacienda Pública y no aumenta el valor del bien.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Según se contempla en el Plan General de Contabilidad, ¿por qué no se amortizan los terrenos?",
+      "opciones": {
+        "a": "Porque no tienen valor residual.",
+        "b": "Porque normalmente tienen no pierden valor en sí mismos por su uso.",
+        "c": "Porque tienen una vida útil limitada.",
+        "d": "Porque en ningún caso son amortizables."
+      },
+      "explicacion": "Los terrenos tienen, por lo general, una vida útil indefinida y no sufren depreciación por el uso o el paso del tiempo (a diferencia de las construcciones), por lo que no se amortizan. Nota: Se transcribe el error tipográfico 'tienen no pierden' tal como aparece en la imagen original.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Se adquiere una máquina en Japón para fabricar un determinado tipo de tornillos. Precio del catálogo que aparece consignado en factura 200.000 euros. Descuento 10.000 euros. Derechos arancelarios 30.000 euros. Transporte 5.000 euros. Gastos de instalación y puesta a punto 5.000 euros. ¿Cuál es su precio de adquisición?",
+      "opciones": {
+        "a": "210.000.",
+        "b": "190.000.",
+        "c": "230.000.",
+        "d": "200.000."
+      },
+      "explicacion": "El precio de adquisición incluye el importe facturado menos descuentos, más todos los gastos adicionales hasta la puesta en condiciones de funcionamiento. Cálculo: (200.000 - 10.000 descuento) + 30.000 (aranceles) + 5.000 (transporte) + 5.000 (instalación) = 190.000 + 40.000 = 230.000 euros.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Periodo durante el cual la empresa espera utilizar el activo amortizable o el número de unidades de producción que espera obtener. Según el PGC estamos ante el concepto de:",
+      "opciones": {
+        "a": "Vida económica.",
+        "b": "Vida financiera.",
+        "c": "Vida media de un activo amortizable.",
+        "d": "Vida útil."
+      },
+      "explicacion": "Esta es la definición literal de 'Vida útil' según el PGC. Se refiere al tiempo estimado que el activo generará rendimientos económicos para la empresa o la cantidad de producción que se espera de él.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Una empresa estima que podrá obtener en el momento actual 4.000 euros por la venta de un activo, una vez deducidos los costes de venta, tomando en consideración que el activo hubiese alcanzado la antigüedad y demás condiciones que se espera tenga al final de su vida útil. De acuerdo con el Plan General de Contabilidad, ¿a qué se está haciendo referencia?",
+      "opciones": {
+        "a": "Al valor residual del activo.",
+        "b": "Al valor razonable del activo.",
+        "c": "Al valor en uso del activo.",
+        "d": "Al valor actual del activo."
+      },
+      "explicacion": "Esta es la definición exacta de Valor Residual según el Marco Conceptual del Plan General de Contabilidad: es el importe que la empresa estima que podría obtener en el momento actual por su venta u otra forma de disposición, una vez deducidos los costes de venta, si el activo tuviera ya la antigüedad y demás condiciones esperadas al término de su vida útil.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 7,
+      "pregunta": "La cuenta \"Deterioro de valor del inmovilizado material\", representa:",
+      "opciones": {
+        "a": "Un gasto.",
+        "b": "Un elemento de patrimonio neto.",
+        "c": "Un pasivo.",
+        "d": "Ninguna de las demás opciones es correcta."
+      },
+      "explicacion": "La cuenta de 'Deterioro de valor del inmovilizado material' (subgrupo 29) es una cuenta compensadora de activo (correctora de valor). Aparece en el activo del balance restando valor al inmovilizado, no es un pasivo ni patrimonio neto. Aunque su dotación conlleva un gasto (cuenta 691), la cuenta de balance en sí misma no es un gasto, sino una corrección del activo.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Conforme al Plan General de Contabilidad, la cuenta \"Amortización del Inmovilizado material\", representa:",
+      "opciones": {
+        "a": "Un gasto.",
+        "b": "Un pasivo.",
+        "c": "Una corrección de valor del inmovilizado material.",
+        "d": "Una deuda con el suministrador del inmovilizado en cualquier caso."
+      },
+      "explicacion": "En la terminología del PGC, la cuenta 'Amortización del Inmovilizado Material' (grupo 68) se refiere a la dotación anual, la cual es un gasto de explotación en la cuenta de pérdidas y ganancias. Se distingue de la 'Amortización Acumulada', que sería la corrección de valor en el balance.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 9,
+      "pregunta": "\"Un activo tiene un valor amortizable de 50.000 euros y se estima para el mismo una vida útil de 5 años. El activo empieza a ser explotado el 1 de octubre del año 'X'. La empresa lo amortiza siguiendo el sistema lineal o de cuotas constantes y cierra el ejercicio a 31 de diciembre\". ¿Cuál es la cuota de amortización del año \"X\"?",
+      "opciones": {
+        "a": "7.500.",
+        "b": "2.500.",
+        "c": "1.250.",
+        "d": "10.000."
+      },
+      "explicacion": "Cálculo: Amortización anual = 50.000 € / 5 años = 10.000 €/año. Como se empieza a explotar el 1 de octubre, en el año 'X' solo se amortizan 3 meses (octubre, noviembre, diciembre). Prorrateo: 10.000 € * (3/12) = 2.500 €.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Habrá que reconocer un deterioro de valor en un inmovilizado material cuando su:",
+      "opciones": {
+        "a": "Valor contable > Importe recuperable, entendido éste como su valor razonable menos los costes de venta.",
+        "b": "Valor contable > Importe recuperable, entendido éste como su valor en uso.",
+        "c": "Valor contable > Importe recuperable, entendido éste como el mayor importe entre su valor razonable menos los costes de venta y su valor en uso.",
+        "d": "Valor contable < Importe recuperable, entendido éste como el mayor importe entre su valor razonable menos los costes de venta y su valor en uso."
+      },
+      "explicacion": "Se produce un deterioro cuando el valor contable (libro) supera al importe recuperable. El importe recuperable se define como el mayor valor entre el valor razonable menos costes de venta y el valor en uso. Por tanto, si el valor en libros es mayor que este máximo recuperable, se debe registrar la pérdida.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "unidad": 20,
+  "titulo": "Contabilidad Financiera: Patrimonio Neto y Resultados",
+  "preguntas": [
+    {
+      "numero": 7,
+      "pregunta": "Los fondos propios:",
+      "opciones": {
+        "a": "Serán iguales al patrimonio neto.",
+        "b": "Serán inferiores al patrimonio neto.",
+        "c": "Forman parte del patrimonio neto.",
+        "d": "Pertenecen al pasivo de la empresa."
+      },
+      "explicacion": "El patrimonio neto es un concepto amplio que engloba la riqueza neta de la empresa. Los fondos propios son el componente principal de este patrimonio, representando las aportaciones de los socios y los beneficios que la empresa ha decidido reinvertir.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 8,
+      "pregunta": "El Resultado del ejercicio",
+      "opciones": {
+        "a": "Formará parte de los fondos propios con signo positivo cuando la cuenta presente un saldo acreedor (beneficios) tras el proceso de regularización contable.",
+        "b": "Formará parte de los fondos propios con signo negativo cuando la cuenta presente un saldo acreedor (beneficios) tras el proceso de regularización contable.",
+        "c": "No forma parte de los recursos propios.",
+        "d": "Se reparte como dividendo siempre."
+      },
+      "explicacion": "Cuando una empresa genera beneficios (saldo acreedor), ese dinero aumenta el valor de lo que pertenece a los propietarios. Por tanto, se suma a los fondos propios, incrementando la solvencia y el valor contable de la entidad.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Los resultados negativos de ejercicios anteriores",
+      "opciones": {
+        "a": "No son aptos para formar parte de los fondos propios.",
+        "b": "Formará parte de los fondos propios con signo negativo hasta que se produzca su cancelación.",
+        "c": "Son destinados a dividendos.",
+        "d": "Representan beneficios no distribuidos."
+      },
+      "explicacion": "Las pérdidas de años pasados actúan como una deuda interna que reduce la riqueza de los socios. Contablemente, aparecen restando en el patrimonio neto para reflejar que la empresa debe recuperar ese valor antes de poder considerar que tiene beneficios reales acumulados.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "El Artículo 273. 1 hace referencia a que:",
+      "opciones": {
+        "a": "La junta general resolverá sobre la aplicación del resultado del ejercicio de acuerdo con el balance aprobado.",
+        "b": "Los beneficios imputados directamente al patrimonio neto no podrán ser objeto de distribución, directa ni indirecta.",
+        "c": "Se imputarán en todo caso a la Reserva Legal un 10% del beneficio.",
+        "d": "Se destinará una cifra del beneficio que represente, al menos, un cinco por ciento del fondo de comercio."
+      },
+      "explicacion": "Este artículo legal establece la soberanía de los socios. Una vez que las cuentas anuales muestran una imagen fiel de la empresa y son aprobadas, es la Junta General quien tiene el poder de decidir si el beneficio se reparte como dividendos o se queda en la empresa como reservas.",
+      "respuesta_correcta": "a"
+    }
+  ]
+}

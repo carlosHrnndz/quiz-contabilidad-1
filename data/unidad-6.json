@@ -1,0 +1,126 @@
+{
+  "unidad": 6,
+  "titulo": "Autoevaluación Unidad 6 - Contabilidad Financiera",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "El proceso de regularización:",
+      "opciones": {
+        "a": "Traspasa pérdidas y ganancias a la cuenta de resultado del ejercicio.",
+        "b": "No implica un proceso contable nuevo.",
+        "c": "Actualiza los saldos contables sólo para algunas cuentas.",
+        "d": "Disminuye los resultados."
+      },
+      "explicacion": "El proceso de regularización consiste en saldar las cuentas de gestión (gastos e ingresos) para determinar el resultado del periodo. El saldo resultante se traspasa a la cuenta de 'Resultado del ejercicio' (o Pérdidas y Ganancias), reflejando si hubo beneficio o pérdida.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 2,
+      "pregunta": "El pago de un alquiler es un ejemplo de:",
+      "opciones": {
+        "a": "Ingreso.",
+        "b": "Gasto.",
+        "c": "Incremento de activo.",
+        "d": "Incremento de patrimonio neto."
+      },
+      "explicacion": "El alquiler representa el consumo de un servicio necesario para la actividad de la empresa durante un periodo, por lo que contablemente se clasifica como un gasto (cuenta del grupo 6, Arrendamientos y cánones).",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Los sueldos y salarios representan:",
+      "opciones": {
+        "a": "Un gasto.",
+        "b": "Un ingreso.",
+        "c": "Aportaciones de los socios.",
+        "d": "Un activo."
+      },
+      "explicacion": "Las remuneraciones al personal son costes en los que incurre la empresa para desarrollar su actividad. Se registran en la cuenta 'Sueldos y salarios', que pertenece al grupo de gastos.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Las ventas de mercaderías son:",
+      "opciones": {
+        "a": "Ingreso.",
+        "b": "Gasto.",
+        "c": "Incremento de activo.",
+        "d": "Ninguna de las anteriores."
+      },
+      "explicacion": "La venta de mercaderías es la actividad principal de generación de recursos en una empresa comercial. Contablemente, se registra en el grupo 7 (Ventas e ingresos), representando un ingreso que aumenta el patrimonio neto.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Un ingreso por dividendos:",
+      "opciones": {
+        "a": "Se recogería en el DEBE.",
+        "b": "Se anotaría en el HABER.",
+        "c": "No es un ingreso.",
+        "d": "Disminuye los resultados."
+      },
+      "explicacion": "Según las reglas de la partida doble, las cuentas de ingresos nacen y crecen por el Haber (lado derecho). Por tanto, al registrar un ingreso por dividendos, se anota en el Haber.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Los rappels por ventas que efectúa la empresa vendedora:",
+      "opciones": {
+        "a": "Disminuyen sus ingresos.",
+        "b": "Aumentan sus ingresos.",
+        "c": "No afectan a su situación patrimonial.",
+        "d": "Disminuye sus costes generales."
+      },
+      "explicacion": "Un 'rappel' es un descuento por volumen de ventas. Para la empresa que vende, conceder este descuento significa una reducción en el importe total de la venta, por lo que funciona como una disminución de sus ingresos (o un menor ingreso).",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Los gastos por transporte en la compra de mercaderías:",
+      "opciones": {
+        "a": "Incrementan el patrimonio neto.",
+        "b": "Reducen el coste de las existencias.",
+        "c": "No afectan a los gastos.",
+        "d": "Incrementan el coste de las compras."
+      },
+      "explicacion": "Según la normativa contable (como el Plan General Contable), el precio de adquisición de las existencias incluye el importe facturado por el vendedor más todos los gastos adicionales que se produzcan hasta que los bienes se hallen en el almacén, tales como transportes, seguros y aranceles. Por tanto, estos gastos se suman al valor de la compra.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "El pago de intereses en concepto de un préstamo:",
+      "opciones": {
+        "a": "Resultará en un ingreso.",
+        "b": "Es un gasto de naturaleza financiera.",
+        "c": "No afecta al patrimonio neto.",
+        "d": "Nunca debe contabilizarse."
+      },
+      "explicacion": "Los intereses derivados de deudas o préstamos representan el coste de la financiación ajena. Contablemente, se registran en el grupo de gastos financieros (grupo 66 en el PGC español), diferenciándose de los gastos de explotación.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Los rappels por compras:",
+      "opciones": {
+        "a": "Disminuyen el coste de las compras.",
+        "b": "Aumentan el coste de las compras.",
+        "c": "Aumentan los gastos.",
+        "d": "No afectan a la contabilidad de la empresa."
+      },
+      "explicacion": "Un 'rappel' es un descuento comercial basado en haber alcanzado un determinado volumen de pedidos. Al ser un descuento, su efecto contable es reducir el importe neto o coste de las compras realizadas durante el periodo.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Una venta siempre es un ingreso:",
+      "opciones": {
+        "a": "Verdadero.",
+        "b": "Falso.",
+        "c": "Solo si se cobra en un periodo razonable.",
+        "d": "Depende de su origen."
+      },
+      "explicacion": "En contabilidad financiera, bajo el principio de devengo, una venta se reconoce como un ingreso en el momento en que se realiza la transacción (entrega del bien o servicio), independientemente de cuándo se produzca el cobro monetario.",
+      "respuesta_correcta": "a"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "unidad": 21,
+  "titulo": "Autoevaluación de Contabilidad: Subvenciones y Patrimonio Neto",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "El Ayuntamiento de una ciudad ha concedido una subvención a una instalación deportiva para que los habitantes del municipio puedan hacer uso del mismo a precios más reducidos. Esta subvención se clasificará como:",
+      "opciones": {
+        "a": "Subvención de capital.",
+        "b": "Subvención a la explotación.",
+        "c": "Subvención para cancelar deudas.",
+        "d": "Subvención sin asignación específica."
+      },
+      "explicacion": "Este tipo de ayuda económica tiene como fin compensar los menores ingresos por ventas o cubrir gastos de funcionamiento ordinario, por lo que se vincula directamente a la actividad de explotación de la entidad.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Las subvenciones entregadas por los socios representan:",
+      "opciones": {
+        "a": "Un ingreso.",
+        "b": "Un incremento de los fondos propios.",
+        "c": "Un incremento de capital social.",
+        "d": "Un incremento de reservas."
+      },
+      "explicacion": "Cuando los propietarios inyectan recursos en la empresa, independientemente de que se denomine subvención, contablemente se trata como una aportación de los dueños que refuerza el patrimonio neto sin pasar por la cuenta de resultados.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Las subvenciones, tanto las monetarias como las no monetarias, se valorarán por su:",
+      "opciones": {
+        "a": "Coste amortizado.",
+        "b": "Precio de adquisición.",
+        "c": "Valor razonable.",
+        "d": "Valor actual."
+      },
+      "explicacion": "Para reflejar la imagen fiel, se debe registrar el valor económico real que tienen los bienes o derechos recibidos en el momento de su reconocimiento, ajustándolo a su valor presente.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Según el Plan General de Contabilidad, señala la proposición correcta:",
+      "opciones": {
+        "a": "Una subvención recibida, pendiente de imputar a resultados, es parte integrante del patrimonio neto.",
+        "b": "Capital + Reservas + Resultado del ejercicio = Patrimonio Neto.",
+        "c": "Fondos Propios = Patrimonio Neto.",
+        "d": "Capital = Patrimonio Neto."
+      },
+      "explicacion": "Las subvenciones no reintegrables se mantienen en una categoría específica dentro del patrimonio neto hasta que se cumplen las condiciones para trasladarlas gradualmente a la cuenta de pérdidas y ganancias.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Según el Plan General de Contabilidad, señala la proposición correcta con respecto a una subvención reintegrable:",
+      "opciones": {
+        "a": "Queda integrada dentro del patrimonio neto en cualquier caso.",
+        "b": "Ha de figurar en el balance minorando el patrimonio neto.",
+        "c": "Es un pasivo.",
+        "d": "Ninguna de las demás opciones es correcta."
+      },
+      "explicacion": "Si existe la obligación de devolver los fondos en caso de incumplimiento, el dinero recibido no es propiedad definitiva de la empresa, sino una deuda u obligación financiera frente al organismo que la otorgó.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Una empresa recibe en el ejercicio 200X una subvención para financiar un déficit de explotación del ejercicio 200X y del ejercicio 200X-1. ¿En qué cuenta de las que se indican ha de reconocer dicha subvención?:",
+      "opciones": {
+        "a": "Subvenciones, donaciones y legados de capital transferidos al resultado del ejercicio.",
+        "b": "Subvenciones, donaciones y legados a la explotación.",
+        "c": "En la cuenta correspondiente del subgrupo 13.",
+        "d": "Otras subvenciones, donaciones y legados transferidos al resultado del ejercicio."
+      },
+      "explicacion": "Al estar destinada específicamente a cubrir pérdidas de la actividad corriente (déficit de explotación), debe registrarse en la cuenta de ingresos que compensa directamente esos gastos operativos.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

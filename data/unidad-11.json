@@ -1,0 +1,78 @@
+{
+  "unidad": 11,
+  "titulo": "Autoevaluación de Contabilidad Financiera - Existencias",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "De los siguientes métodos de cálculo del valor de existencias, ¿cuál es el que está generalmente aceptado?",
+      "opciones": {
+        "a": "LIFO.",
+        "b": "NIFO.",
+        "c": "FIFO.",
+        "d": "HIFO."
+      },
+      "explicacion": "El método FIFO (First In, First Out) es el generalmente aceptado por las normas contables internacionales y el Plan General de Contabilidad español. Asume que las primeras unidades en entrar al almacén son las primeras en salir, valorando las existencias finales a los precios más recientes. El LIFO, por ejemplo, no está permitido en muchas normativas.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 2,
+      "pregunta": "¿Cuándo se realizarán correcciones valorativas de las existencias?",
+      "opciones": {
+        "a": "Cuando su valor neto realizable sea inferior a su precio de adquisición o a su coste de producción.",
+        "b": "Cuando su valor neto realizable sea superior a su precio de adquisición.",
+        "c": "No se realizarán en ningún caso correcciones valorativas de las existencias.",
+        "d": "Cuando su valor sea mayor que los costes de los productos vencidos."
+      },
+      "explicacion": "En aplicación del principio de prudencia, las existencias deben valorarse al menor de dos valores: su coste histórico (adquisición/producción) o su valor neto realizable (valor de mercado). Si el valor de mercado cae por debajo del coste, se debe reconocer una pérdida por deterioro (corrección valorativa).",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 3,
+      "pregunta": "En el precio de adquisición de las mercaderías se debe incluir:",
+      "opciones": {
+        "a": "El impuesto sobre el valor añadido.",
+        "b": "El coste del almacén.",
+        "c": "Gastos de transporte.",
+        "d": "Los salarios del personal."
+      },
+      "explicacion": "El precio de adquisición incluye el importe facturado por el vendedor más todos los gastos adicionales que se produzcan hasta que los bienes se hallen en el almacén, tales como transportes, aranceles de aduana, seguros y otros gastos directamente atribuibles a la adquisición.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 4,
+      "pregunta": "La cuenta (300) Mercaderías pertenece al \"Activo corriente\":",
+      "opciones": {
+        "a": "Verdadero.",
+        "b": "Falso.",
+        "c": "Solo si forma parte de una empresa de distribución.",
+        "d": "Solo en empresas sin pasivo exigible."
+      },
+      "explicacion": "Las mercaderías son bienes adquiridos por la empresa y destinados a la venta sin transformación. Al ser activos vinculados al ciclo de explotación normal de la empresa y esperarse su realización (venta) a corto plazo, se clasifican inequívocamente en el Activo Corriente.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 5,
+      "pregunta": "De acuerdo con el Plan General de Contabilidad, los bienes y servicios comprendidos en las existencias se valorarán:",
+      "opciones": {
+        "a": "Por el precio que figura en la factura de compra.",
+        "b": "Por su valor razonable.",
+        "c": "Por su valor neto realizable en cualquier caso.",
+        "d": "Por su coste, ya sea el precio de adquisición o el coste de producción."
+      },
+      "explicacion": "La norma de valoración del PGC establece que los bienes y servicios comprendidos en las existencias se valorarán por su coste. Este coste será el precio de adquisición (para compras externas) o el coste de producción (para bienes fabricados o transformados internamente).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "¿En qué agrupación del balance han de figurar los anticipos a proveedores?",
+      "opciones": {
+        "a": "Existencias.",
+        "b": "Periodificaciones a corto plazo.",
+        "c": "Acreedores comerciales y otras cuentas a pagar.",
+        "d": "Deudores comerciales y otras cuentas a cobrar."
+      },
+      "explicacion": "Aunque la imagen marca la opción 'b', es importante notar una discrepancia técnica: Según el Plan General de Contabilidad, la cuenta (407) Anticipos a proveedores figura en el Activo Corriente dentro de la partida de 'Existencias', ya que representa el derecho a recibir bienes de inventario. La opción marcada 'Periodificaciones' suele reservarse para gastos anticipados (como seguros o alquileres), no para compra de mercaderías.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

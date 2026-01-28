@@ -1,0 +1,126 @@
+{
+  "unidad": 10,
+  "titulo": "Autoevaluación Unidad 10 - Contabilidad Financiera (Inmovilizado Inmaterial)",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "El inmovilizado inmaterial se define como:",
+      "opciones": {
+        "a": "Los gastos amortizables en un plazo máximo de 5 años.",
+        "b": "Elementos patrimoniales de naturaleza no corpórea que se amortizarán en un plazo máximo de 10 años.",
+        "c": "Elementos patrimoniales intangibles susceptibles de valoración económica, que formarán parte de la empresa por un periodo superior a doce meses.",
+        "d": "Aquellos activos que no tiene un importe relevante en el balance."
+      },
+      "explicacion": "El inmovilizado inmaterial (o intangible) se caracteriza por carecer de apariencia física, tener valor económico y ser un activo a largo plazo (permanencia superior a un año). Los plazos de amortización específicos (como 5 o 10 años) no definen el concepto general, sino que dependen de la vida útil o la normativa legal.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 2,
+      "pregunta": "La cuenta (201) Desarrollo recoge:",
+      "opciones": {
+        "a": "El importe de los gastos del ejercicio en proyectos de investigación y/o desarrollo encargados a terceros.",
+        "b": "La aplicación concreta de los logros obtenidos de la investigación.",
+        "c": "El importe de los gastos en investigación mientras el proyecto esté en curso.",
+        "d": "Los gastos de la empresa en el departamento de I+D."
+      },
+      "explicacion": "Contablemente, el 'Desarrollo' es la fase posterior a la investigación. Consiste en la aplicación de los resultados de la investigación para la fabricación de materiales o productos nuevos o mejorados antes de su producción comercial.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Para que la empresa active los gastos en I+D es necesario:",
+      "opciones": {
+        "a": "Que el proyecto sea específico e individualizado para cada actividad.",
+        "b": "Tener su coste claramente establecido para poder distribuirlo en el tiempo.",
+        "c": "Que tenga motivos fundados de éxito técnico y rentabilidad económica y comercial.",
+        "d": "Todas las anteriores."
+      },
+      "explicacion": "Para capitalizar (activar) los gastos de I+D, las normas contables exigen cumplir varios requisitos simultáneamente: el proyecto debe estar individualizado, su coste debe estar claramente establecido y debe haber garantías de éxito técnico y rentabilidad comercial.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "La cuenta (203) Propiedad Industrial recoge:",
+      "opciones": {
+        "a": "Importe satisfecho por la cesión del derecho al uso de una patente o de una marca, siempre y cuando en el contrato figure que la cesión para su explotación sea por un periodo superior a un año.",
+        "b": "Importe satisfecho por la adquisición de cualquier manifestación de la propiedad industrial, así como los gastos en investigación y desarrollo capitalizados cuando se obtenga la correspondiente patente o similar, incluido el coste de registro o formalización de la propiedad industrial.",
+        "c": "Importe satisfecho para la obtención de un procedimiento de fabricación o de una patente, cuando el proyecto haya finalizado con éxito.",
+        "d": "Los gastos de registro de nombres comerciales exclusivamente."
+      },
+      "explicacion": "Esta cuenta incluye tanto lo pagado por adquirir patentes o marcas a terceros, como los gastos de I+D propios que fueron previamente activados y que finalmente han resultado en una patente registrada, sumando los costes de registro.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "La cuenta (204) Fondo de comercio recoge:",
+      "opciones": {
+        "a": "Bienes inmateriales como clientela, posicionamiento y otros análogos que la empresa no podrá reconocer explícitamente, salvo que sean valorados por un perito independiente.",
+        "b": "Bienes inmateriales como la marca, el nombre comercial y otros análogos que deban inventariarse.",
+        "c": "Bienes inmateriales como clientela, razón social... y otros que, aún siendo de difícil cuantificación, puedan valorarse a través de estimaciones anuales.",
+        "d": "Bienes inmateriales como clientela, nombre o razón social y otros análogos cuando su valor se ponga de manifiesto en virtud de una adquisición onerosa."
+      },
+      "explicacion": "El Fondo de Comercio representa activos intangibles como la reputación o la clientela. La normativa contable establece que solo puede reconocerse en el balance cuando se ha pagado por él en una adquisición (adquisición onerosa), no cuando se genera internamente.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Según el Plan General de Contabilidad, un Inmovilizado intangible que tenga una vida útil indefinida:",
+      "opciones": {
+        "a": "No se amortizará, sin proceder otras actuaciones contables a futuro.",
+        "b": "No se amortizará, aunque deberá analizarse su eventual deterioro siempre que existan indicios del mismo y al menos anualmente.",
+        "c": "Se amortizará en cualquier caso.",
+        "d": "Solo se amortiza si su vida útil es superior a 5 años."
+      },
+      "explicacion": "Los activos intangibles con vida útil indefinida no se amortizan sistemáticamente porque no hay un límite previsible para el periodo durante el cual se espera que generen flujos de efectivo. Sin embargo, para cumplir con el principio de prudencia y la imagen fiel, es obligatorio comprobar su valor (test de deterioro) al menos una vez al año o cuando haya indicios de pérdida de valor.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Según el Plan General de Contabilidad 2007, el Fondo de Comercio:",
+      "opciones": {
+        "a": "Sólo se reconocerá cuando haya sido adquirido a título oneroso y corresponda a activos que no han podido ser identificados individualmente y reconocidos por separado.",
+        "b": "Ha de reconocerse en cualquier empresa que tenga activos intangibles tales como la buena localización, una gran cartera de clientes o el prestigio ganado a lo largo de décadas.",
+        "c": "Ha de amortizarse de acuerdo con la mejor estimación posible de su vida útil.",
+        "d": "Ha de figurar en el activo del balance, si procede, únicamente en las empresas del sector de nuevas tecnologías."
+      },
+      "explicacion": "El Fondo de Comercio solo puede figurar en el balance si se ha pagado por él (adquisición a título oneroso), generalmente en una combinación de negocios. El fondo de comercio generado internamente nunca se reconoce como activo, ya que su coste no puede identificarse de forma fiable y separada.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Para la valoración de los inmovilizados Intangibles, ¿qué criterio ha de seguirse?:",
+      "opciones": {
+        "a": "Valor actual.",
+        "b": "Valor razonable.",
+        "c": "Precio de adquisición o coste de producción, según corresponda.",
+        "d": "Valor neto realizable."
+      },
+      "explicacion": "La norma de registro y valoración para el inmovilizado intangible establece que su valoración inicial se realiza por su coste, que equivale al precio de adquisición (si se compra a terceros) o al coste de producción (si es desarrollado internamente por la empresa y cumple los requisitos de activación).",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 9,
+      "pregunta": "¿Qué tienen en común las cuentas \"Amortización acumulada del inmovilizado intangible\" y \"Deterioro de valor del inmovilizado intangible\" contenidas en el Plan General de Contabilidad?:",
+      "opciones": {
+        "a": "Ambas representan gastos por depreciaciones y deterioros de valor de los inmovilizados intangibles.",
+        "b": "Ambas representan correcciones de valor de los inmovilizados intangibles.",
+        "c": "Ambas representan depreciaciones en los inmovilizados intangibles de naturaleza sistemática y reversible.",
+        "d": "Ambas representan depreciaciones en los inmovilizados intangibles de naturaleza sistemática e irreversible."
+      },
+      "explicacion": "La opción marcada en el examen es la 'd', aunque teóricamente contiene una imprecisión (el deterioro suele ser reversible y no sistemático). Lo que tienen en común funcionalmente es que ambas son cuentas compensadoras de activo (correcciones de valor) que restan valor al inmovilizado bruto para reflejar su valor contable neto.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 10,
+      "pregunta": "\"La empresa 'A' satisface 300.000 euros por el derecho de arrendamiento de un local al subrogarse en los derechos y obligaciones del transmitente y antiguo arrendatario, derivados de un contrato anterior\". Conforme al Plan General de Contabilidad, ¿en qué cuenta de las que se señalan ha de reconocer la empresa 'A' dicho derecho?:",
+      "opciones": {
+        "a": "\"Fondo de comercio\".",
+        "b": "\"Arrendamientos y cánones\".",
+        "c": "\"Propiedad industrial\".",
+        "d": "\"Derechos de traspaso\"."
+      },
+      "explicacion": "La definición del enunciado corresponde exactamente a la cuenta 'Derechos de traspaso'. Se refiere al importe satisfecho por los derechos de arrendamiento de locales al subrogarse en la posición del antiguo arrendatario.",
+      "respuesta_correcta": "d"
+    }
+  ]
+}

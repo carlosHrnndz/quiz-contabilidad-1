@@ -1,0 +1,126 @@
+{
+  "unidad": 1,
+  "titulo": "Autoevaluación Unidad 1 - Contabilidad Financiera",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "¿Cuál de las siguientes afirmaciones es correcta?",
+      "opciones": {
+        "a": "La contabilidad financiera no analiza los flujos externos.",
+        "b": "El usuario de la contabilidad de costes es exclusivamente la dirección.",
+        "c": "La contabilidad financiera, a diferencia de la contabilidad interna, se rige por criterios objetivos.",
+        "d": "Todas son correctas."
+      },
+      "explicacion": "La contabilidad financiera debe seguir normas y principios estandarizados (como el Plan General Contable o las NIIF) para garantizar que la información sea objetiva, verificable y comparable para los usuarios externos. Por el contrario, la contabilidad interna o de gestión es más flexible y subjetiva, adaptándose a las necesidades de la dirección.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 2,
+      "pregunta": "La expresión anglosajona true and fair view hace referencia:",
+      "opciones": {
+        "a": "Al concepto de Imagen Fiel recogido en el marco conceptual.",
+        "b": "A los usuarios de la información financiera.",
+        "c": "Al sistema de registro de las operaciones que realiza la empresa con el mundo exterior.",
+        "d": "Al comercio sostenible dentro de una empresa."
+      },
+      "explicacion": "El término 'true and fair view' se traduce en el ámbito contable español como 'Imagen Fiel'. Es el principio fundamental que establece que las cuentas anuales deben reflejar con veracidad la situación financiera, el patrimonio y los resultados de la empresa.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 3,
+      "pregunta": "La perspectiva financiera hace referencia a:",
+      "opciones": {
+        "a": "La materialización de los recursos.",
+        "b": "El origen de los recursos.",
+        "c": "La finalidad de los recursos.",
+        "d": "El resultado de los recursos."
+      },
+      "explicacion": "En la estructura contable, la perspectiva financiera se asocia al Pasivo y al Patrimonio Neto, que representan las fuentes de financiación u 'origen' de los fondos. Por contraposición, la perspectiva económica se refiere al Activo, que es la materialización o uso de dichos recursos.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "¿Cuál de los siguientes documentos no formaría parte de las cuentas anuales?",
+      "opciones": {
+        "a": "El Balance.",
+        "b": "La memoria.",
+        "c": "El estado de flujos de efectivo.",
+        "d": "El estado de origen y aplicación de fondos."
+      },
+      "explicacion": "Según la normativa contable actual (como el PGC en España), las Cuentas Anuales obligatorias son: el Balance, la Cuenta de Pérdidas y Ganancias, el Estado de Cambios en el Patrimonio Neto, el Estado de Flujos de Efectivo y la Memoria. El 'estado de origen y aplicación de fondos' es un documento que ha sido desplazado o sustituido en la normativa estándar por el Estado de Flujos de Efectivo.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "¿Cuál de los siguientes no sería un requisito propio de la información financiera?",
+      "opciones": {
+        "a": "Economicidad.",
+        "b": "Comparabilidad.",
+        "c": "Fiabilidad.",
+        "d": "Relevancia."
+      },
+      "explicacion": "Los requisitos o características cualitativas fundamentales de la información financiera son la Relevancia y la Fiabilidad (o Representación Fiel), junto con características de mejora como la Comparabilidad. La 'Economicidad' es un principio de gestión relacionado con el coste-beneficio, pero no es un requisito cualitativo de la información contable en sí misma según el Marco Conceptual.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 6,
+      "pregunta": "¿Quiénes son los usuarios típicos de la contabilidad de gestión?",
+      "opciones": {
+        "a": "Los bancos.",
+        "b": "Los accionistas.",
+        "c": "La dirección de la empresa.",
+        "d": "El departamento comercial."
+      },
+      "explicacion": "La contabilidad de gestión (o interna) está diseñada específicamente para proporcionar información detallada y analítica a los usuarios internos, principalmente a la dirección de la empresa, para facilitar la toma de decisiones, la planificación y el control. Los bancos y accionistas son usuarios de la contabilidad financiera (externa).",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "¿Qué es la contabilidad nacional?",
+      "opciones": {
+        "a": "Aquella que se emplea en las cuentas del Estado.",
+        "b": "El Plan General Contable del país.",
+        "c": "La contabilidad basada en la estadística.",
+        "d": "La que realiza un análisis contable de la empresa a nivel nacional."
+      },
+      "explicacion": "La contabilidad nacional es un sistema de registro y medición de las variables macroeconómicas de un país. Se diferencia de la contabilidad empresarial en que su objetivo es ofrecer una visión agregada de la actividad económica (Producto Interior Bruto, Renta Nacional, etc.) gestionada y publicada generalmente por organismos del Estado.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Para que la contabilidad cumpla con el criterio de integridad:",
+      "opciones": {
+        "a": "Deberá ser realizada en tiempo y forma.",
+        "b": "No deberá tener errores.",
+        "c": "Deberá ser completa y no omitir hechos.",
+        "d": "Deberá analizar al menos un periodo de un año."
+      },
+      "explicacion": "El principio o criterio de integridad (a menudo asociado con la característica de fiabilidad y la imagen fiel) exige que la información financiera contenga todos los datos relevantes. Omitir información significativa puede hacer que la información sea falsa o engañosa, por lo que el registro debe ser completo.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Las cuentas anuales deben ser:",
+      "opciones": {
+        "a": "Comprensibles",
+        "b": "No comparables.",
+        "c": "Subjetivas.",
+        "d": "Poco específicas."
+      },
+      "explicacion": "Según el Marco Conceptual de la contabilidad (como en el PGC español), la claridad es un requisito fundamental. La información debe ser comprensible para que los usuarios con conocimientos razonables de economía y contabilidad puedan formarse juicios y tomar decisiones. Además, deben ser comparables y objetivas, lo que descarta las otras opciones.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 10,
+      "pregunta": "La información recogida por la Contabilidad Financiera queda reflejada en:",
+      "opciones": {
+        "a": "Las cuentas anuales.",
+        "b": "La cuenta de pérdidas y ganancias.",
+        "c": "El Plan General Contable.",
+        "d": "El estado de flujos de efectivo."
+      },
+      "explicacion": "El producto final del ciclo contable financiero son las Cuentas Anuales. Estas forman una unidad que incluye el Balance, la Cuenta de Pérdidas y Ganancias, el Estado de Cambios en el Patrimonio Neto, el Estado de Flujos de Efectivo y la Memoria. Por tanto, la opción 'a' es la respuesta global correcta, ya que engloba a los documentos específicos mencionados en las otras opciones.",
+      "respuesta_correcta": "a"
+    }
+  ]
+}

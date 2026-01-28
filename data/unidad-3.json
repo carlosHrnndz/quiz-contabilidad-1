@@ -1,0 +1,126 @@
+{
+  "unidad": 3,
+  "titulo": "Autoevaluación Unidad 3 - Contabilidad Financiera",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "¿Cuál(es) de los siguientes conceptos no se considera un principio contable?",
+      "opciones": {
+        "a": "Empresa en funcionamiento.",
+        "b": "Devengo.",
+        "c": "Prudencia.",
+        "d": "Equidad."
+      },
+      "explicacion": "En el Plan General de Contabilidad (PGC) español, los principios contables obligatorios son: Empresa en funcionamiento, Devengo, Uniformidad, Prudencia, No compensación e Importancia relativa. La 'Equidad' es un concepto general de justicia, pero no figura como un principio técnico específico en la lista normativa del PGC.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Las existencias son:",
+      "opciones": {
+        "a": "Elementos del pasivo para la generación de beneficios.",
+        "b": "Activos que representan inversiones en inmovilizado.",
+        "c": "Activos poseídos para ser vendidos en el curso normal de la explotación.",
+        "d": "Parte del patrimonio neto de la empresa."
+      },
+      "explicacion": "Las existencias son activos corrientes. Se definen como activos poseídos para ser vendidos en el curso normal de la explotación (mercaderías, productos terminados), en proceso de producción (productos en curso) o en forma de materiales o suministros para ser consumidos en el proceso de producción o prestación de servicios.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Los ingresos representan:",
+      "opciones": {
+        "a": "Incrementos de patrimonio neto.",
+        "b": "Disminuciones de patrimonio neto.",
+        "c": "Las deudas de la empresa.",
+        "d": "Las fuentes de financiación propias de la empresa."
+      },
+      "explicacion": "Contablemente, un ingreso se define como un incremento en los beneficios económicos durante el periodo contable, que da como resultado un aumento del patrimonio neto, y que no proviene de aportaciones de los socios o propietarios.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Los acreedores pertenecerán por su naturaleza al:",
+      "opciones": {
+        "a": "Patrimonio neto.",
+        "b": "Pasivo.",
+        "c": "Activo.",
+        "d": "A la tesorería de la empresa."
+      },
+      "explicacion": "Los acreedores representan obligaciones de pago que la empresa tiene con terceros por la adquisición de bienes o servicios. Al ser una obligación presente surgida de sucesos pasados, cuya cancelación requerirá desprenderse de recursos, se clasifica como Pasivo.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Los gastos representan:",
+      "opciones": {
+        "a": "Un incremento del activo.",
+        "b": "Una disminución del pasivo.",
+        "c": "Una disminución del patrimonio neto.",
+        "d": "Un ingreso."
+      },
+      "explicacion": "Un gasto es la disminución de los beneficios económicos durante el periodo contable, producida por la salida o disminución del valor de los activos, o por el nacimiento o aumento de los pasivos, que tiene como resultado una disminución del patrimonio neto (distinta de las distribuciones a los socios).",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "El principio del devengo implica:",
+      "opciones": {
+        "a": "Disminuir los ingresos.",
+        "b": "El reconocimiento de los gastos cuando tienen lugar.",
+        "c": "La uniformidad en la presentación de las cuentas.",
+        "d": "Un derecho de cobro frente a un cliente."
+      },
+      "explicacion": "El principio de devengo establece que los efectos de las transacciones o hechos económicos se registrarán cuando ocurran, imputándose al ejercicio al que las cuentas anuales se refieran, los gastos y los ingresos que afecten al mismo, con independencia de la fecha de su pago o de su cobro.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 7,
+      "pregunta": "La importancia relativa hace referencia a:",
+      "opciones": {
+        "a": "La contabilización de sucesos que han tenido lugar en otros periodos.",
+        "b": "Actividades no relacionadas con la empresa.",
+        "c": "Cuando la relevancia del hecho contable no sea cuantitativa o cualitativamente importante.",
+        "d": "La actividad fundamental de la empresa."
+      },
+      "explicacion": "El principio de importancia relativa permite que no se apliquen estrictamente algunos principios y criterios contables cuando la importancia de la variación que produzca el hecho sea escasa y, por tanto, no altere la imagen fiel del patrimonio, de la situación financiera ni de los resultados de la empresa.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 8,
+      "pregunta": "El inmovilizado:",
+      "opciones": {
+        "a": "Refleja los recursos propios.",
+        "b": "Representa los activos más solventes de la empresa.",
+        "c": "Comprende los elementos destinados a servir de forma duradera a la actividad de la sociedad.",
+        "d": "Siempre está financiado por el pasivo."
+      },
+      "explicacion": "El inmovilizado (o activo no corriente) agrupa aquellos activos que la empresa necesita para llevar a cabo su actividad productiva y que permanecen en ella durante un periodo prolongado (más de un ejercicio económico), a diferencia del activo circulante.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 9,
+      "pregunta": "El pasivo de la empresa:",
+      "opciones": {
+        "a": "Siempre reflejará sus obligaciones.",
+        "b": "Nunca reflejará sus derechos.",
+        "c": "Refleja obligaciones y derechos.",
+        "d": "Refleja los recursos propios."
+      },
+      "explicacion": "Contablemente, el pasivo representa las obligaciones actuales de la empresa surgidas de sucesos pasados (deudas), cuya cancelación requerirá desprenderse de recursos. Los derechos son activos y los recursos propios son el patrimonio neto.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 10,
+      "pregunta": "La comparabilidad en las cuentas anuales se caracteriza por:",
+      "opciones": {
+        "a": "Su utilidad para ser comparadas en el tiempo y con otras empresas.",
+        "b": "Su homogeneidad con otras contabilidades internas.",
+        "c": "Su similitud con otros criterios contables.",
+        "d": "Su similitud con un plan contable internacional."
+      },
+      "explicacion": "La comparabilidad es un requisito de la información financiera que permite a los usuarios contrastar la situación de la empresa a lo largo del tiempo (comparación temporal) y frente a otras entidades (comparación espacial), siempre que se mantengan criterios uniformes.",
+      "respuesta_correcta": "a"
+    }
+  ]
+}

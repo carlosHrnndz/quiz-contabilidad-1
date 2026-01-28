@@ -1,0 +1,126 @@
+{
+  "unidad": 2,
+  "titulo": "Autoevaluación de Contabilidad Financiera: Masas Patrimoniales",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "¿Cuál de las siguientes operaciones pertenece a la masa patrimonial de activo?",
+      "opciones": {
+        "a": "Compra de mercaderías al contado",
+        "b": "Deudas de la empresa con vencimiento no superior a un año.",
+        "c": "La cuenta de pérdidas y ganancias.",
+        "d": "Deuda de la empresa."
+      },
+      "explicacion": "El Activo representa los bienes y derechos propiedad de la empresa. Las mercaderías son bienes adquiridos para la venta, por lo tanto, forman parte del activo (específicamente del activo corriente). Las deudas (opciones b y d) son Pasivo, y la cuenta de pérdidas y ganancias afecta al Patrimonio Neto.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 2,
+      "pregunta": "¿Cuál de las siguientes operaciones pertenece a la masa patrimonial de pasivo?",
+      "opciones": {
+        "a": "Un préstamo concedido a la empresa.",
+        "b": "Beneficio generado.",
+        "c": "Un derecho de cobro frente a un cliente.",
+        "d": "Dos furgonetas de reparto."
+      },
+      "explicacion": "El Pasivo representa las obligaciones y deudas de la empresa. Un préstamo concedido a la empresa es una obligación de pago que la empresa tiene con un tercero (el banco o acreedor). El beneficio es Patrimonio Neto, y los derechos de cobro y las furgonetas son Activos.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 3,
+      "pregunta": "El Activo Corriente hace referencia a:",
+      "opciones": {
+        "a": "Bienes o derechos que van estar ligados a la empresa durante más de un año.",
+        "b": "Bienes o derechos que van estar ligados a la empresa durante no más de un año o en tiempo inferior al ciclo de explotación.",
+        "c": "Las deudas de la empresa con vencimiento a corto plazo.",
+        "d": "Las fuentes de financiación propias de la empresa."
+      },
+      "explicacion": "El Activo Corriente agrupa los elementos patrimoniales que se espera que se conviertan en liquidez (dinero) mediante su venta o uso en un periodo inferior a un año o al ciclo normal de explotación.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "El Pasivo No Corriente hace referencia a:",
+      "opciones": {
+        "a": "Deudas de la empresa con vencimiento no superior a un año.",
+        "b": "Bienes o derechos que van estar ligados a la empresa durante no más de un año.",
+        "c": "Las deudas de la empresa con vencimiento superior a un año.",
+        "d": "Las fuentes de financiación propias de la empresa."
+      },
+      "explicacion": "El Pasivo No Corriente (o Exigible a largo plazo) está formado por las deudas y obligaciones que la empresa debe cancelar en un plazo superior a un año.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "El Activo No Corriente hace referencia a:",
+      "opciones": {
+        "a": "El Activo Fijo.",
+        "b": "Deudas de la empresa.",
+        "c": "Derechos de cobro.",
+        "d": "Beneficios a corto plazo."
+      },
+      "explicacion": "El Activo No Corriente está constituido por elementos destinados a servir de forma duradera en la actividad de la empresa (más de un año). Tradicionalmente se le conoce también como Activo Fijo o Inmovilizado.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 6,
+      "pregunta": "La ecuación fundamental del patrimonio es:",
+      "opciones": {
+        "a": "P.NETO = ACTIVO + PASIVO.",
+        "b": "ACTIVO = PASIVO – P.NETO.",
+        "c": "ACTIVO = PASIVO + P.NETO.",
+        "d": "PASIVO = ACTIVO + P.NETO."
+      },
+      "explicacion": "La ecuación fundamental de la contabilidad establece que el total de las inversiones (Activo) debe ser igual al total de la financiación, ya sea ajena (Pasivo) o propia (Patrimonio Neto). Por tanto: Activo = Pasivo + Patrimonio Neto.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Si el patrimonio neto es igual al activo:",
+      "opciones": {
+        "a": "Existe un desequilibrio patrimonial.",
+        "b": "La empresa no tiene ninguna deuda.",
+        "c": "La empresa tiene pérdidas.",
+        "d": "La empresa es muy rentable."
+      },
+      "explicacion": "La ecuación fundamental de la contabilidad es Activo = Pasivo + Patrimonio Neto. Si el Activo es igual al Patrimonio Neto, matemáticamente implica que el Pasivo es cero. El Pasivo representa las obligaciones y deudas de la empresa con terceros, por lo tanto, la empresa no tiene deudas.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Las reservas forman parte de:",
+      "opciones": {
+        "a": "Los recursos propios.",
+        "b": "El activo.",
+        "c": "El pasivo.",
+        "d": "Los resultados."
+      },
+      "explicacion": "Las reservas son beneficios retenidos por la empresa que no se han distribuido como dividendos. Contablemente, se clasifican dentro del Patrimonio Neto, que constituye los recursos propios de la entidad (financiación no exigible).",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Una característica fundamental de las provisiones es:",
+      "opciones": {
+        "a": "Su importe elevado.",
+        "b": "Su naturaleza intangible.",
+        "c": "La indeterminación de su cuantía.",
+        "d": "Su carácter intangible."
+      },
+      "explicacion": "Las provisiones son pasivos (obligaciones) que se reconocen en el balance, pero que se distinguen de otras deudas porque existe incertidumbre acerca de su cuantía exacta o de la fecha de su vencimiento. Es decir, se sabe que existe la obligación, pero no se conoce con exactitud cuánto habrá que pagar.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 10,
+      "pregunta": "El activo disponible se caracteriza por:",
+      "opciones": {
+        "a": "Su liquidez.",
+        "b": "Su solvencia.",
+        "c": "Su importe.",
+        "d": "Su rentabilidad."
+      },
+      "explicacion": "El activo disponible (o tesorería) comprende el dinero en efectivo y los saldos bancarios a la vista. Su característica principal es la liquidez inmediata, lo que significa que puede utilizarse al instante para realizar pagos sin necesidad de conversión previa.",
+      "respuesta_correcta": "a"
+    }
+  ]
+}
