@@ -211,8 +211,16 @@ class QuizApp {
 
         this.ui.btnStart.addEventListener('click', () => {
             this.startQuiz(this.resumeAvailable);
-            this.resumeAvailable = false; // Reset flag after start
-        }); this.ui.btnStats.addEventListener('click', () => this.showStats());
+        });
+        /* Smart Stats Button: Auto-load if code is typed but not loaded */
+        this.ui.btnStats.addEventListener('click', async () => {
+            const inputCode = this.ui.sessionCodeInput.value.trim().toLowerCase();
+            if (inputCode && inputCode !== this.sessionCode) {
+                this.saveSessionCode();
+                await this.loadProgress();
+            }
+            this.showStats();
+        });
         this.ui.btnCloseStats.addEventListener('click', () => this.ui.modalStats.classList.add('hidden'));
 
         this.ui.btnSelectAll.addEventListener('click', () => {
@@ -284,7 +292,7 @@ class QuizApp {
 
     getFirebaseRef() {
         if (!this.firebaseInitialized || !this.sessionCode) return null;
-        return firebase.database().ref(`sessions/${this.sessionCode}`);
+        return firebase.database().ref(`sessions_conta1/${this.sessionCode}`);
     }
 
     async syncToCloud() {
@@ -351,7 +359,7 @@ class QuizApp {
     }
 
     getStorageKey() {
-        return this.sessionCode ? `quizProgress_${this.sessionCode}` : 'quizProgress_default';
+        return this.sessionCode ? `conta1_progress_${this.sessionCode}` : 'conta1_progress_default';
     }
 
     saveProgress() {
