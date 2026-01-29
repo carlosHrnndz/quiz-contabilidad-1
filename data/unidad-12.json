@@ -1,0 +1,126 @@
+{
+  "unidad": 12,
+  "titulo": "Contabilidad Financiera - Gestión de Cobros, Efectos y Provisiones",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Cuando una empresa descuenta letras de cambio en una entidad financiera, el riesgo de impago es asumido por dicha entidad financiera:",
+      "opciones": {
+        "a": "Verdadero.",
+        "b": "Falso.",
+        "c": "Solo cuando la letra está avalada.",
+        "d": "Sólo cuando la letra no está avalada."
+      },
+      "explicacion": "En el descuento comercial ordinario, la entidad financiera anticipa el importe pero no asume el riesgo de impago (salvo en el 'factoring sin recurso'). Si el cliente no paga al vencimiento, el banco cargará el importe nominal más gastos a la empresa que descontó la letra. Por tanto, el riesgo sigue recayendo sobre la empresa.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Los derechos de cobro por operaciones comerciales en el balance deben figurar en:",
+      "opciones": {
+        "a": "El pasivo.",
+        "b": "En el patrimonio neto.",
+        "c": "El activo corriente.",
+        "d": "En la cuenta de pérdidas y ganancias como un ingreso."
+      },
+      "explicacion": "Los derechos de cobro (clientes, deudores) representan recursos económicos que la empresa espera convertir en efectivo en el corto plazo (ciclo normal de explotación). Por ello, se clasifican dentro del Activo Corriente del Balance de Situación.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Descontando las letras de cambio las empresas obtienen:",
+      "opciones": {
+        "a": "Mejores condiciones de pago.",
+        "b": "Rentabilidad.",
+        "c": "Liquidez.",
+        "d": "Agilidad administrativa."
+      },
+      "explicacion": "El objetivo principal del descuento de efectos es anticipar el cobro de las ventas a crédito. Al recibir el dinero antes de la fecha de vencimiento (a cambio de un interés), la empresa transforma un derecho de cobro en tesorería inmediata, obteniendo así liquidez.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Cuando un cliente insolvente paga su deuda, y la empresa sigue el método global, deberá:",
+      "opciones": {
+        "a": "Aumentar la provisión.",
+        "b": "Cambiar la factura.",
+        "c": "Revertirse el deterioro.",
+        "d": "Convertir la letra en un crédito incobrable."
+      },
+      "explicacion": "Si se había contabilizado un deterioro (provisión) por la posible insolvencia y el cliente finalmente paga, la pérdida estimada desaparece. Contablemente, se debe anular o revertir ese deterioro, reconociendo un ingreso por la reversión del deterioro de créditos comerciales.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Si la empresa tienen efectos en gestión de cobro y se produce un impago, el importe de la letra:",
+      "opciones": {
+        "a": "Lo asume el banco.",
+        "b": "La letra se devuelve al cliente.",
+        "c": "Va a cargo de la entidad bancaria que gestionaba el cobro.",
+        "d": "Se anula contablemente."
+      },
+      "explicacion": "En la 'gestión de cobro', el banco actúa solo como intermediario para intentar cobrar, sin anticipar fondos. Si el deudor no paga, el banco devuelve el efecto físico a su cliente (la empresa) y le cobra una comisión por el servicio y los gastos de devolución. La empresa recupera la letra para intentar el cobro por otras vías.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 6,
+      "pregunta": "La cuenta \"Anticipos de clientes\" del Plan General de Contabilidad, representa un:",
+      "opciones": {
+        "a": "Activo.",
+        "b": "Gasto.",
+        "c": "Pasivo.",
+        "d": "Ingreso."
+      },
+      "explicacion": "Un anticipo de cliente es dinero recibido antes de entregar el bien o prestar el servicio. Esto genera una obligación para la empresa de cumplir con esa entrega en el futuro. Por lo tanto, se registra como un Pasivo (una deuda en especie) hasta que se realice la facturación definitiva.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "¿Qué representa la cuenta \"Deterioro de valor de créditos por operaciones comerciales\"?",
+      "opciones": {
+        "a": "Un pasivo.",
+        "b": "Una provisión.",
+        "c": "Un gasto.",
+        "d": "Una corrección de valor de un activo."
+      },
+      "explicacion": "Esta cuenta figura en el activo del balance, pero con signo negativo (o entre paréntesis). Su función es ajustar el valor contable de los créditos (clientes) para reflejar la pérdida estimada de valor por posible insolvencia, por lo que actúa como una corrección valorativa del activo.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "¿Qué representa la cuenta \"provisión por deterioro de créditos por operaciones comerciales\", contenida en el Plan General de Contabilidad?",
+      "opciones": {
+        "a": "Un elemento integrante del patrimonio neto.",
+        "b": "Un pasivo.",
+        "c": "Un gasto.",
+        "d": "Una corrección de valor de un activo."
+      },
+      "explicacion": "Aunque la terminología puede variar según la versión del Plan General Contable (en el PGC 2007 se habla de 'Pérdidas por deterioro'), la pregunta se refiere a la contrapartida del deterioro en la cuenta de pérdidas y ganancias. El reconocimiento de este riesgo supone imputar un gasto al ejercicio económico.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 9,
+      "pregunta": "¿Cuándo emplearemos la cuenta \"Clientes, efectos comerciales a cobrar\"?",
+      "opciones": {
+        "a": "Al estar ante una letra de cambio de dudoso cobro.",
+        "b": "Al girar una letra de cambio, que acepta el librado.",
+        "c": "Al girar una letra de cambio, que no acepta el librado.",
+        "d": "Al reconocer cualquier derecho de cobro sobre un cliente."
+      },
+      "explicacion": "La cuenta 'Clientes, efectos comerciales a cobrar' se utiliza específicamente cuando el derecho de cobro se formaliza mediante documentos cambiarios (como letras de cambio) y estos han sido aceptados por el deudor (librado), lo que refuerza la garantía jurídica del cobro.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "¿En qué principio contable se obliga al reconocimiento, entre otros, de los deterioros de valor de los créditos comerciales?",
+      "opciones": {
+        "a": "Importancia relativa.",
+        "b": "Empresa en funcionamiento.",
+        "c": "Prudencia.",
+        "d": "No compensación."
+      },
+      "explicacion": "El principio de prudencia establece que se deben contabilizar los riesgos y pérdidas tan pronto como sean conocidos. Por ello, ante la sospecha de que un cliente no pague (insolvencia), se debe reconocer el deterioro inmediatamente, aunque la pérdida definitiva no se haya consumado.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}

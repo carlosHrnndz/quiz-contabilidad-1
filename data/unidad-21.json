@@ -1,6 +1,6 @@
 {
   "unidad": 21,
-  "titulo": "Autoevaluación de Contabilidad: Subvenciones y Patrimonio Neto",
+  "titulo": "Autoevaluación Unidad 21: Contabilidad Financiera - Subvenciones",
   "preguntas": [
     {
       "numero": 1,
@@ -11,7 +11,7 @@
         "c": "Subvención para cancelar deudas.",
         "d": "Subvención sin asignación específica."
       },
-      "explicacion": "Este tipo de ayuda económica tiene como fin compensar los menores ingresos por ventas o cubrir gastos de funcionamiento ordinario, por lo que se vincula directamente a la actividad de explotación de la entidad.",
+      "explicacion": "Las subvenciones a la explotación son aquellas que se conceden para asegurar una rentabilidad mínima o compensar déficits de explotación, permitiendo, como en este caso, ofrecer servicios a precios reducidos. Se imputan directamente al resultado del ejercicio.",
       "respuesta_correcta": "b"
     },
     {
@@ -23,7 +23,7 @@
         "c": "Un incremento de capital social.",
         "d": "Un incremento de reservas."
       },
-      "explicacion": "Cuando los propietarios inyectan recursos en la empresa, independientemente de que se denomine subvención, contablemente se trata como una aportación de los dueños que refuerza el patrimonio neto sin pasar por la cuenta de resultados.",
+      "explicacion": "Según la normativa contable (NRV 18ª del PGC), las aportaciones de los socios o propietarios no se consideran ingresos ni subvenciones en sentido estricto (pasivos o patrimonio neto diferido), sino que se registran directamente como un incremento de los fondos propios, ya que actúan en su condición de dueños.",
       "respuesta_correcta": "b"
     },
     {
@@ -35,7 +35,7 @@
         "c": "Valor razonable.",
         "d": "Valor actual."
       },
-      "explicacion": "Para reflejar la imagen fiel, se debe registrar el valor económico real que tienen los bienes o derechos recibidos en el momento de su reconocimiento, ajustándolo a su valor presente.",
+      "explicacion": "Aunque la norma general (NRV 18ª) suele referirse al 'valor razonable' para las no monetarias, la opción marcada en el examen es 'Valor actual'. Esto puede referirse al valor actual de los flujos de efectivo futuros si la subvención es monetaria y se recibe de forma diferida, o a una interpretación específica del material didáctico de la unidad.",
       "respuesta_correcta": "d"
     },
     {
@@ -47,7 +47,7 @@
         "c": "Fondos Propios = Patrimonio Neto.",
         "d": "Capital = Patrimonio Neto."
       },
-      "explicacion": "Las subvenciones no reintegrables se mantienen en una categoría específica dentro del patrimonio neto hasta que se cumplen las condiciones para trasladarlas gradualmente a la cuenta de pérdidas y ganancias.",
+      "explicacion": "Las subvenciones oficiales de capital no reintegrables se contabilizan inicialmente en el patrimonio neto (dentro del subgrupo 13) y se imputan a resultados posteriormente, correlacionadas con la amortización de los activos financiados. Por tanto, mientras están pendientes de imputar, forman parte del Patrimonio Neto.",
       "respuesta_correcta": "a"
     },
     {
@@ -59,7 +59,7 @@
         "c": "Es un pasivo.",
         "d": "Ninguna de las demás opciones es correcta."
       },
-      "explicacion": "Si existe la obligación de devolver los fondos en caso de incumplimiento, el dinero recibido no es propiedad definitiva de la empresa, sino una deuda u obligación financiera frente al organismo que la otorgó.",
+      "explicacion": "Las subvenciones reintegrables se consideran deudas (pasivos) porque existe la obligación de devolverlas si no se cumplen ciertas condiciones, o simplemente porque tienen naturaleza de préstamo hasta que se convierten en no reintegrables.",
       "respuesta_correcta": "c"
     },
     {
@@ -71,7 +71,7 @@
         "c": "En la cuenta correspondiente del subgrupo 13.",
         "d": "Otras subvenciones, donaciones y legados transferidos al resultado del ejercicio."
       },
-      "explicacion": "Al estar destinada específicamente a cubrir pérdidas de la actividad corriente (déficit de explotación), debe registrarse en la cuenta de ingresos que compensa directamente esos gastos operativos.",
+      "explicacion": "Al estar destinada a financiar un déficit de explotación (gastos del ciclo de negocio), se trata de una subvención a la explotación. Se reconoce como ingreso del ejercicio en la cuenta 'Subvenciones, donaciones y legados a la explotación' (grupo 74).",
       "respuesta_correcta": "b"
     }
   ]

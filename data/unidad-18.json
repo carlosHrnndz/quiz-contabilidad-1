@@ -1,0 +1,126 @@
+{
+  "unidad": 18,
+  "titulo": "Autoevaluación Unidad 18 - Contabilidad Financiera: Arrendamientos",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "En un arrendamiento:",
+      "opciones": {
+        "a": "El arrendador es el propietario del bien.",
+        "b": "El arrendatario es el propietario del bien.",
+        "c": "Depende del tipo de arrendamiento.",
+        "d": "Solo es propietario el usuario del bien."
+      },
+      "explicacion": "La respuesta correcta es la 'c' porque la definición de quién ostenta la propiedad (especialmente en términos económicos y contables) varía. En un arrendamiento operativo, el arrendador mantiene la propiedad y los riesgos. En un arrendamiento financiero, aunque la propiedad legal pueda ser del arrendador, se considera que la propiedad económica y el control del activo se transfieren al arrendatario.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 2,
+      "pregunta": "En el arrendamiento operativo:",
+      "opciones": {
+        "a": "Se transfieren los riesgos y ventajas de la propiedad.",
+        "b": "No se transfieren los riesgos y ventajas de la propiedad.",
+        "c": "Hay una opción de compra.",
+        "d": "Se contabiliza como si fuera una compra a plazos."
+      },
+      "explicacion": "La característica principal que distingue al arrendamiento operativo del financiero es que en el operativo NO se transfieren sustancialmente los riesgos y beneficios inherentes a la propiedad del activo al arrendatario; funciona más como un alquiler tradicional.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Un arrendamiento podrá o no ser considerado financiero en función de:",
+      "opciones": {
+        "a": "De la naturaleza de la operación.",
+        "b": "Del contrato.",
+        "c": "Del plazo del mismo.",
+        "d": "Del importe."
+      },
+      "explicacion": "En contabilidad prevalece el fondo económico sobre la forma jurídica. Por ello, la clasificación depende de la 'naturaleza de la operación' (el fondo económico), analizando si se transfieren o no los riesgos y ventajas, independientemente de cómo se titule el contrato.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 4,
+      "pregunta": "En un arrendamiento financiero, el arrendatario está obligado a:",
+      "opciones": {
+        "a": "Ejercitar la opción de compra.",
+        "b": "Pagar las cuotas correspondientes a la operación.",
+        "c": "Utilizar el bien sujeto a arrendamiento.",
+        "d": "Vender el bien al final de su vida útil."
+      },
+      "explicacion": "La obligación contractual principal del arrendatario es el pago de las cuotas acordadas (que cubren el coste del bien más la carga financiera). Ejercer la opción de compra suele ser un derecho, no una obligación estricta, aunque esté incentivada.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Solo son susceptibles de contabilizarse según el criterio de los arrendamientos los:",
+      "opciones": {
+        "a": "Activos de inmovilizado pasivo.",
+        "b": "Activos inmobiliarios.",
+        "c": "Activos tangibles.",
+        "d": "Todos los activos."
+      },
+      "explicacion": "La normativa de arrendamientos se aplica a activos del inmovilizado (bienes de uso duradero). Aunque el término 'inmobiliarios' suele referirse a bienes raíces, en el contexto de esta pregunta y sus opciones (descartando 'inmovilizado pasivo' que no existe como tal y 'todos los activos'), se selecciona la opción marcada que refiere a activos de naturaleza fija o inmovilizada.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 6,
+      "pregunta": "El arrendatario en una operación de arrendamiento financiero contabilizará el bien:",
+      "opciones": {
+        "a": "Como una operación de fianzas y depósitos.",
+        "b": "Como la adquisición de un activo según su naturaleza.",
+        "c": "Como una inversión financiera.",
+        "d": "Como una disminución de su deuda."
+      },
+      "explicacion": "Al asumirse que el arrendamiento financiero transfiere el control económico, el arrendatario debe dar de alta el activo en su balance según su naturaleza (ej: maquinaria, elementos de transporte, etc.) y reconocer simultáneamente un pasivo financiero por la deuda contraída.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 7,
+      "pregunta": "En un arrendamiento financiero, los gastos de la operación:",
+      "opciones": {
+        "a": "Quedan excluidos.",
+        "b": "Se recogen en la cuenta de pérdidas y ganancias.",
+        "c": "Se incorporan como incremento del coste del bien sujeto a arrendamiento.",
+        "d": "Se reducen del valor del bien."
+      },
+      "explicacion": "En la contabilidad del arrendatario para un arrendamiento financiero, los costes directos iniciales (gastos de la operación) se suman al importe reconocido como activo. Es decir, forman parte del precio de adquisición del bien.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 8,
+      "pregunta": "En el arrendamiento financiero, el arrendador:",
+      "opciones": {
+        "a": "Solo contabiliza ingresos financieros.",
+        "b": "Da de alta el activo sujeto al arrendamiento.",
+        "c": "Reconoce un pasivo por el importe total de la operación.",
+        "d": "Reconoce un crédito por el importe del valor actual de los cobros futuros."
+      },
+      "explicacion": "Para el arrendador, un arrendamiento financiero se trata como una venta financiada. Por ello, da de baja el activo físico y reconoce un activo financiero (un crédito o cuenta por cobrar) equivalente al valor actual de los pagos que recibirá en el futuro.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Las cuotas recibidas por el arrendador en el arrendamiento financiero:",
+      "opciones": {
+        "a": "Se contabilizan como cobro del principal.",
+        "b": "Se contabilizan como cobro del principal e ingresos financieros.",
+        "c": "Son gastos financieros.",
+        "d": "Representan pagos a cuenta."
+      },
+      "explicacion": "Cada cuota que paga el arrendatario se divide en dos componentes: una parte amortiza la deuda (recuperación del coste o principal) y la otra parte corresponde a los intereses generados por la financiación (ingresos financieros para el arrendador).",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Contablemente, el arrendamiento financiero:",
+      "opciones": {
+        "a": "Es similar al alquiler de un bien.",
+        "b": "Es similar a la adquisición de un bien mediante un préstamo con amortización mediante cuotas.",
+        "c": "Es una operación que evita la financiación.",
+        "d": "Es una transacción que no aparece en el balance."
+      },
+      "explicacion": "El arrendamiento financiero transfiere sustancialmente todos los riesgos y beneficios inherentes a la propiedad. Por tanto, su tratamiento contable refleja la realidad económica de comprar un activo financiado con deuda, registrando tanto el activo como la obligación de pago (pasivo), similar a un préstamo.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

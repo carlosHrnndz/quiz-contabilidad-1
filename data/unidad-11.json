@@ -1,6 +1,6 @@
 {
   "unidad": 11,
-  "titulo": "Autoevaluación de Contabilidad Financiera - Existencias",
+  "titulo": "Contabilidad Financiera - Autoevaluación Unidad 11: Existencias",
   "preguntas": [
     {
       "numero": 1,
@@ -11,7 +11,7 @@
         "c": "FIFO.",
         "d": "HIFO."
       },
-      "explicacion": "El método FIFO (First In, First Out) es el generalmente aceptado por las normas contables internacionales y el Plan General de Contabilidad español. Asume que las primeras unidades en entrar al almacén son las primeras en salir, valorando las existencias finales a los precios más recientes. El LIFO, por ejemplo, no está permitido en muchas normativas.",
+      "explicacion": "El método FIFO (First In, First Out) es generalmente aceptado por las normas contables internacionales (NIIF) y el Plan General de Contabilidad. Asume que las primeras unidades que entran en el almacén son las primeras en salir. El método LIFO, por el contrario, no suele estar permitido en muchas normativas actuales.",
       "respuesta_correcta": "c"
     },
     {
@@ -23,7 +23,7 @@
         "c": "No se realizarán en ningún caso correcciones valorativas de las existencias.",
         "d": "Cuando su valor sea mayor que los costes de los productos vencidos."
       },
-      "explicacion": "En aplicación del principio de prudencia, las existencias deben valorarse al menor de dos valores: su coste histórico (adquisición/producción) o su valor neto realizable (valor de mercado). Si el valor de mercado cae por debajo del coste, se debe reconocer una pérdida por deterioro (corrección valorativa).",
+      "explicacion": "Siguiendo el principio de prudencia, los activos no deben estar sobrevalorados. Si el valor de mercado (valor neto realizable) cae por debajo del coste histórico (precio de adquisición o coste de producción), la empresa debe reconocer esa pérdida de valor mediante una corrección valorativa (deterioro).",
       "respuesta_correcta": "a"
     },
     {
@@ -35,7 +35,7 @@
         "c": "Gastos de transporte.",
         "d": "Los salarios del personal."
       },
-      "explicacion": "El precio de adquisición incluye el importe facturado por el vendedor más todos los gastos adicionales que se produzcan hasta que los bienes se hallen en el almacén, tales como transportes, aranceles de aduana, seguros y otros gastos directamente atribuibles a la adquisición.",
+      "explicacion": "El precio de adquisición incluye el importe facturado por el vendedor más todos los gastos adicionales que se produzcan hasta que los bienes se hallen en el almacén, tales como transportes, aranceles de aduana, seguros y otros directamente atribuibles a la adquisición.",
       "respuesta_correcta": "c"
     },
     {
@@ -47,7 +47,7 @@
         "c": "Solo si forma parte de una empresa de distribución.",
         "d": "Solo en empresas sin pasivo exigible."
       },
-      "explicacion": "Las mercaderías son bienes adquiridos por la empresa y destinados a la venta sin transformación. Al ser activos vinculados al ciclo de explotación normal de la empresa y esperarse su realización (venta) a corto plazo, se clasifican inequívocamente en el Activo Corriente.",
+      "explicacion": "Las mercaderías son bienes adquiridos por la empresa y destinados a la venta sin transformación. Dado que se espera que se vendan dentro del ciclo normal de explotación (generalmente menos de un año), se clasifican siempre como Activo Corriente.",
       "respuesta_correcta": "a"
     },
     {
@@ -59,7 +59,7 @@
         "c": "Por su valor neto realizable en cualquier caso.",
         "d": "Por su coste, ya sea el precio de adquisición o el coste de producción."
       },
-      "explicacion": "La norma de valoración del PGC establece que los bienes y servicios comprendidos en las existencias se valorarán por su coste. Este coste será el precio de adquisición (para compras externas) o el coste de producción (para bienes fabricados o transformados internamente).",
+      "explicacion": "La norma de registro y valoración establece que las existencias se valorarán inicialmente por su coste. Este coste será el precio de adquisición (para bienes comprados a terceros) o el coste de producción (para bienes fabricados o transformados por la propia empresa).",
       "respuesta_correcta": "d"
     },
     {
@@ -71,7 +71,55 @@
         "c": "Acreedores comerciales y otras cuentas a pagar.",
         "d": "Deudores comerciales y otras cuentas a cobrar."
       },
-      "explicacion": "Aunque la imagen marca la opción 'b', es importante notar una discrepancia técnica: Según el Plan General de Contabilidad, la cuenta (407) Anticipos a proveedores figura en el Activo Corriente dentro de la partida de 'Existencias', ya que representa el derecho a recibir bienes de inventario. La opción marcada 'Periodificaciones' suele reservarse para gastos anticipados (como seguros o alquileres), no para compra de mercaderías.",
+      "explicacion": "Aunque la imagen marca la opción 'b' (posiblemente interpretándolo como un pago anticipado genérico), es importante notar que, según el Plan General de Contabilidad (PGC) en España, la cuenta (407) 'Anticipos a proveedores' se agrupa formalmente dentro del epígrafe de 'Existencias' en el Activo Corriente, ya que representan derechos de recepción de bienes físicos.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Los gastos tales como transportes, aranceles de aduanas, seguros y otros directamente atribuibles a la adquisición de las existencias, se reconocerán:",
+      "opciones": {
+        "a": "En las correspondientes cuentas de gastos de naturaleza financiera.",
+        "b": "Como mayor precio de adquisición, únicamente si están reflejados en factura.",
+        "c": "En las correspondientes cuentas de gastos del subgrupo 62 \"Servicios exteriores\".",
+        "d": "Como mayor precio de adquisición."
+      },
+      "explicacion": "Según la norma de valoración de existencias del Plan General de Contabilidad, el precio de adquisición incluye el importe facturado por el vendedor más todos los gastos adicionales que se produzcan hasta que los bienes se hallen ubicados para su venta (transportes, aranceles, seguros, etc.). Estos gastos no se separan, sino que incrementan el valor del activo.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "De acuerdo con el Plan General de Contabilidad, ¿qué valor hemos de tomar como referencia para comparar con el precio de adquisición de cara a decidir si procede o no un reconocimiento de deterioro de valor en las existencias?:",
+      "opciones": {
+        "a": "Valor neto realizable.",
+        "b": "Valor actual.",
+        "c": "Fair value.",
+        "d": "Valor en uso."
+      },
+      "explicacion": "La valoración posterior de las existencias requiere comparar su precio de adquisición (o coste de producción) con su valor neto realizable. Si el valor neto realizable es inferior al precio de adquisición, se debe reconocer una pérdida por deterioro para ajustar el valor contable al valor recuperable.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Según el Plan General de Contabilidad, los descuentos sobre compras por pronto pago:",
+      "opciones": {
+        "a": "Se reflejarán habilitando la cuenta \"Descuentos sobre compras por pronto pago\" del subgrupo 66 \"Gastos financieros\", estén o no incluidos en la factura de compra.",
+        "b": "Se considerarán gastos de naturaleza financiera.",
+        "c": "Se reflejarán como menor importe de las cuentas que corresponden del subgrupo 60 \"Compras\", si están incluidos en la factura de compra.",
+        "d": "Se tratarán como ingresos de naturaleza financiera."
+      },
+      "explicacion": "Los descuentos por pronto pago, cuando están incluidos en la factura, minoran directamente el importe de la compra (precio de adquisición). No se consideran gastos financieros, sino una reducción del coste de la mercancía adquirida.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Según el Plan General de Contabilidad, cuando estemos ante bienes no intercambiables entre sí o bienes producidos y segregados para un proyecto específico, la valoración de estas existencias se llevará a cabo:",
+      "opciones": {
+        "a": "Aplicando únicamente el método del precio medio o coste medio ponderado.",
+        "b": "Identificando el precio o los costes específicamente imputables a cada bien individualmente considerado.",
+        "c": "Aplicando el método FIFO o el método del precio medio o coste medio ponderado.",
+        "d": "Empleando el método FIFO o LIFO indistintamente."
+      },
+      "explicacion": "Para bienes que no son intercambiables (son únicos o específicos) o segregados para un proyecto concreto, no se pueden usar métodos estadísticos como el PMP o FIFO. La norma exige el método de identificación específica de costes, asignando a cada unidad su coste real individual.",
       "respuesta_correcta": "b"
     }
   ]

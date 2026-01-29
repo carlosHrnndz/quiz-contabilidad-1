@@ -1,0 +1,126 @@
+{
+  "unidad": 14,
+  "titulo": "Autoevaluación Unidad 14 - Contabilidad Financiera (IVA)",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "El IVA repercutido deberá ser abonado por:",
+      "opciones": {
+        "a": "Un proveedor.",
+        "b": "Un cliente.",
+        "c": "La Hacienda Pública.",
+        "d": "La empresa que emite la factura."
+      },
+      "explicacion": "El IVA repercutido es el impuesto que la empresa cobra a sus clientes al vender un bien o servicio. Por lo tanto, quien abona (paga) ese importe es el cliente final o la empresa compradora.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Si una factura es modificada con posterioridad a su emisión por un descuento:",
+      "opciones": {
+        "a": "El IVA no podrá cambiarse.",
+        "b": "El IVA podrá ser modificado.",
+        "c": "Depende del tipo de IVA que se esté aplicando.",
+        "d": "Solo podrá modificarse al alza."
+      },
+      "explicacion": "Cuando se modifica la base imponible de una operación (por ejemplo, por un descuento posterior o devolución), la cuota de IVA debe ajustarse proporcionalmente mediante una factura rectificativa.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "La empresa debe de deducir el IVA soportado del IVA repercutido que ha de ingresar en Hacienda:",
+      "opciones": {
+        "a": "Falso.",
+        "b": "Solo si la empresa tiene beneficios.",
+        "c": "Verdadero.",
+        "d": "Siempre que el IVA soportado sea superior al IVA repercutido."
+      },
+      "explicacion": "Es el mecanismo básico de liquidación del IVA. La empresa calcula la diferencia entre el IVA que ha cobrado (repercutido) y el IVA deducible que ha pagado (soportado) para determinar cuánto debe ingresar a Hacienda.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Cuando un cliente entrega un anticipo:",
+      "opciones": {
+        "a": "No hay que aplicar el IVA.",
+        "b": "Hay que aplicar el IVA.",
+        "c": "Se aplica el IVA parcialmente.",
+        "d": "Los anticipos no se relacionan con el IVA."
+      },
+      "explicacion": "El devengo del IVA se produce en el momento del cobro total o parcial del precio por los importes efectivamente percibidos. Por tanto, los anticipos están sujetos a IVA en el momento en que se realizan.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "El IVA repercutido superará el IVA soportado durante un periodo concreto si:",
+      "opciones": {
+        "a": "Las compras totales superan las ventas.",
+        "b": "No existen pérdidas.",
+        "c": "Las ventas totales superan las compras.",
+        "d": "Hay un exceso de deuda."
+      },
+      "explicacion": "Dado que el IVA repercutido proviene de las ventas y el soportado de las compras, si el volumen de ventas es mayor al de compras (asumiendo tipos impositivos similares), el impuesto cobrado será mayor al pagado, resultando en una declaración a ingresar.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "La cuenta \"Hacienda Pública, deudora por IVA\" del Plan General de Contabilidad, ¿qué recoge?",
+      "opciones": {
+        "a": "Únicamente el IVA repercutido en cada periodo impositivo.",
+        "b": "El exceso en el periodo impositivo que corresponde del IVA repercutido sobre el IVA soportado deducible.",
+        "c": "La obligación de pago con la Hacienda Pública en concepto de IVA.",
+        "d": "El exceso en el periodo impositivo que corresponda del IVA soportado deducible sobre el IVA."
+      },
+      "explicacion": "Esta cuenta de activo nace cuando el IVA soportado (deducible) es mayor que el IVA repercutido en la liquidación. Significa que la Hacienda Pública le debe dinero a la empresa (o que ese saldo queda a compensar en periodos futuros).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "El sujeto pasivo en el impuesto del IVA es:",
+      "opciones": {
+        "a": "La empresa que ha entregado los bienes.",
+        "b": "La empresa que ha recibido los bienes.",
+        "c": "El asesor fiscal de la empresa.",
+        "d": "La persona física o jurídica que ha de liquidar y pagar el impuesto."
+      },
+      "explicacion": "El sujeto pasivo es la persona física o jurídica obligada por la ley al cumplimiento de las prestaciones tributarias, sea como contribuyente o como sustituto del mismo. En el IVA, es quien debe repercutir el impuesto al cliente, cobrarlo e ingresarlo en Hacienda.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "El IVA se aplica en:",
+      "opciones": {
+        "a": "Solo en la Península Ibérica.",
+        "b": "En todo el territorio peninsular de España y Baleares.",
+        "c": "En la Península Ibérica, Canarias y Baleares.",
+        "d": "En toda España."
+      },
+      "explicacion": "El ámbito de aplicación del IVA español comprende la Península y las Islas Baleares. Las Islas Canarias, Ceuta y Melilla quedan fuera de su ámbito de aplicación (tienen sus propios impuestos indirectos como el IGIC o el IPSI).",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "La periodicidad en la declaración de IVA depende de:",
+      "opciones": {
+        "a": "El tamaño de la empresa.",
+        "b": "El numero de transacciones con terceros.",
+        "c": "La localización de la empresa.",
+        "d": "Si la declaración le sale favorable."
+      },
+      "explicacion": "La periodicidad de las declaraciones (mensual o trimestral) depende del volumen de operaciones (tamaño) de la empresa. Las Grandes Empresas (facturación superior a 6.010.121,04 euros) deben declarar mensualmente, mientras que el resto suele hacerlo trimestralmente.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Están exentas de IVA:",
+      "opciones": {
+        "a": "Los servicios prestados.",
+        "b": "Las ventas de bienes.",
+        "c": "Las importaciones de la Comunidad Europea.",
+        "d": "Las exportaciones o salida de bienes de países comunitarios."
+      },
+      "explicacion": "Las exportaciones (envíos de bienes fuera de la Unión Europea) están exentas de IVA. Es una exención plena que permite deducir el IVA soportado en las compras relacionadas, tributando la operación en el país de destino.",
+      "respuesta_correcta": "d"
+    }
+  ]
+}

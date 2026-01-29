@@ -1,0 +1,126 @@
+{
+  "unidad": 19,
+  "titulo": "Autoevaluación Unidad 19 - Contabilidad Financiera: Arrendamientos",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "En un arrendamiento operativo:",
+      "opciones": {
+        "a": "El arrendador es el propietario del bien.",
+        "b": "El arrendatario es el propietario del bien.",
+        "c": "Un tercero es el propietario del bien arrendado.",
+        "d": "Tiene un carácter básicamente financiero."
+      },
+      "explicacion": "En un arrendamiento operativo (alquiler común), la propiedad legal y económica, así como los riesgos y beneficios inherentes al activo, permanecen en manos del arrendador. El arrendatario simplemente paga por el uso.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 2,
+      "pregunta": "En el arrendamiento operativo:",
+      "opciones": {
+        "a": "Los ingresos los percibe el arrendatario.",
+        "b": "Los gastos los asume el arrendador.",
+        "c": "Las cuotas representan gastos para el arrendatario.",
+        "d": "No existen pagos periódicos."
+      },
+      "explicacion": "Desde el punto de vista contable del arrendatario, las cuotas pagadas en un arrendamiento operativo se registran directamente como un gasto del ejercicio (gasto por arrendamiento) en la cuenta de pérdidas y ganancias, a diferencia del arrendamiento financiero donde se amortiza un activo y se paga una carga financiera.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 3,
+      "pregunta": "La opción de compra es típica de:",
+      "opciones": {
+        "a": "Los arrendamientos financieros.",
+        "b": "Los arrendamientos operativos.",
+        "c": "Los arrendamientos en general.",
+        "d": "Las operaciones comerciales."
+      },
+      "explicacion": "La característica distintiva principal de un arrendamiento financiero (leasing) es que transfiere sustancialmente todos los riesgos y beneficios inherentes a la propiedad y, habitualmente, incluye una opción de compra al final del contrato por un valor residual.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Una venta con arrendamiento financiero posterior implica:",
+      "opciones": {
+        "a": "Una financiación.",
+        "b": "Un arrendamiento operativo.",
+        "c": "Un préstamo.",
+        "d": "Un crédito."
+      },
+      "explicacion": "Esta operación, conocida como 'lease-back' o 'retroleasing', consiste en vender un activo para obtener liquidez inmediata y recuperarlo acto seguido mediante un arrendamiento financiero. En esencia, la operación económica subyacente es una forma de financiación garantizada por el activo.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 5,
+      "pregunta": "En una venta con arrendamiento financiero posterior el activo representa:",
+      "opciones": {
+        "a": "Un pasivo.",
+        "b": "Una garantía.",
+        "c": "Una operación intangible.",
+        "d": "Un depósito."
+      },
+      "explicacion": "En una operación de 'lease-back', dado que el vendedor-arrendatario sigue utilizando el bien y asumiendo sus riesgos, la venta legal del activo funciona económicamente como una garantía real frente a la financiación recibida del comprador-arrendador.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 6,
+      "pregunta": "El arrendatario no reconocerá ni perdida ni ganancia:",
+      "opciones": {
+        "a": "En una operación de arrendamiento financiero.",
+        "b": "En una operación de arrendamiento operativo.",
+        "c": "En una operación de venta con arrendamiento financiero posterior.",
+        "d": "En una compra-venta."
+      },
+      "explicacion": "En una operación de venta con arrendamiento financiero posterior (lease-back), el resultado (beneficio o pérdida) procedente de la venta no se reconoce inmediatamente en la cuenta de resultados, sino que se difiere y se imputa a lo largo de la vida del contrato de arrendamiento, ya que la operación se considera una financiación y no una venta real.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Para el PGC de PYMES la diferencia radica fundamentalmente en:",
+      "opciones": {
+        "a": "Los arrendamientos operativos.",
+        "b": "Los arrendamientos financieros.",
+        "c": "Los arrendamientos de bienes inmuebles.",
+        "d": "En todos los arrendamientos."
+      },
+      "explicacion": "En el Plan General de Contabilidad (PGC) para PYMES, existen simplificaciones y criterios específicos respecto al PGC normal, especialmente en el tratamiento y clasificación de los arrendamientos financieros (leasing), facilitando su contabilización para empresas de menor tamaño.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "En el arrendamiento de terrenos y edificios:",
+      "opciones": {
+        "a": "Suelen ser arrendamientos financieros.",
+        "b": "Suelen ser arrendamientos operativos.",
+        "c": "Pueden darse arrendamientos financieros y operativos.",
+        "d": "Son arrendamientos avalados."
+      },
+      "explicacion": "Los terrenos y edificios pueden clasificarse tanto como arrendamientos financieros como operativos dependiendo de si se transfieren sustancialmente los riesgos y beneficios inherentes a la propiedad. Por ejemplo, el terreno suele ser operativo (vida indefinida) mientras que el edificio puede ser financiero, por lo que pueden darse ambas situaciones.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 9,
+      "pregunta": "El arrendamiento operativo es fundamentalmente:",
+      "opciones": {
+        "a": "Una operación de alquiler.",
+        "b": "Una inversión",
+        "c": "Una financiación.",
+        "d": "Una compra con aval bancario."
+      },
+      "explicacion": "El arrendamiento operativo funciona económicamente como un alquiler tradicional: el arrendador cede el uso del bien a cambio de cuotas, pero mantiene los riesgos y beneficios de la propiedad, y no existe necesariamente una intención de compra final por parte del arrendatario.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Para una empresa con dificultades de tesorería la operación preferible para adquirir un bien del inmovilizado es:",
+      "opciones": {
+        "a": "El arrendamiento financiero.",
+        "b": "Un préstamo bancario.",
+        "c": "Un arrendamiento operativo.",
+        "d": "Un aval."
+      },
+      "explicacion": "El arrendamiento financiero (leasing) permite financiar el 100% del valor del activo sin necesidad de un desembolso inicial grande, lo cual es ideal para empresas con poca liquidez (tesorería). A diferencia del alquiler simple, permite 'adquirir' el bien al final mediante la opción de compra.",
+      "respuesta_correcta": "a"
+    }
+  ]
+}

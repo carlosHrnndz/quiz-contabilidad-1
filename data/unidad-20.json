@@ -1,7 +1,79 @@
 {
   "unidad": 20,
-  "titulo": "Contabilidad Financiera: Patrimonio Neto y Resultados",
+  "titulo": "Autoevaluación Unidad 20 - Contabilidad Financiera",
   "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "El capital social de una empresa está formado por 90.000 acciones ordinarias y 10.000 acciones sin voto, siendo el valor nominal de 1 euro. La Junta General ha acordado repartir un 6% de rentabilidad sobre el valor nominal desembolsado. La cantidad a reconocer como dividendos a pagar, a las acciones ordinarias y a las acciones sin voto, es respectivamente:",
+      "opciones": {
+        "a": "4.500 y 1.000 euros.",
+        "b": "5.400 y 600 euros.",
+        "c": "No se pueden repartir dividendos, por ser el patrimonio neto superior al capital social.",
+        "d": "3.500 y 1000 euros."
+      },
+      "explicacion": "Para calcular los dividendos se aplica el porcentaje de rentabilidad sobre el valor nominal total de cada tipo de acción. \nAcciones ordinarias: 90.000 acciones * 1€ * 6% = 5.400€.\nAcciones sin voto: 10.000 acciones * 1€ * 6% = 600€.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "En los Estatutos de una empresa se reconoce la creación de una reserva indisponible por el 10% del beneficio. Si la empresa tiene un beneficio de 90.000€ y unas reservas legales constituidas por importe de 16.000€, la cantidad de beneficio que se destina a dotar la reserva legal (artículo 274 RDL 1/210) y las reservas estatutarias es respectivamente:",
+      "opciones": {
+        "a": "9.000 y 9.000 euros.",
+        "b": "5.000 y 9.000 euros.",
+        "c": "La reserva legal ya alcanza el límite máximo legal y en estas circunstancias las reservas estatutarias pasan a ser disponibles.",
+        "d": "5.000 y 5.000 euros."
+      },
+      "explicacion": "La reserva estatutaria es el 10% del beneficio (10% de 90.000€ = 9.000€). Para la reserva legal, la ley exige destinar el 10% del beneficio hasta que esta alcance el 20% del Capital Social. Aunque el cálculo directo sería 9.000€, la respuesta correcta indica 5.000€, lo que implica que con esos 5.000€ se alcanza el tope legal (el 20% del capital social), por lo que no es necesario dotar el 10% completo.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Las reservas que figuran en los modelos de balance del Plan General de Contabilidad representan:",
+      "opciones": {
+        "a": "Autofinanciación de mantenimiento.",
+        "b": "Efectivo a disposición de la propiedad.",
+        "c": "Efectivo a disposición de los acreedores.",
+        "d": "Autofinanciación de enriquecimiento."
+      },
+      "explicacion": "Las reservas son beneficios retenidos por la empresa que aumentan su Patrimonio Neto. Se consideran autofinanciación de enriquecimiento porque permiten a la empresa crecer y realizar nuevas inversiones con recursos propios, a diferencia de la autofinanciación de mantenimiento (amortizaciones y provisiones) que busca preservar la capacidad productiva.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "¿Qué entendemos por remanente?",
+      "opciones": {
+        "a": "El efectivo que queda después de aplicar el resultado.",
+        "b": "El efectivo a disposición de los socios.",
+        "c": "El resultado contable de los ejercicios anteriores.",
+        "d": "Beneficios no repartidos ni aplicados específicamente a ninguna otra cuenta tras aprobarse las cuentas y la distribución de resultados."
+      },
+      "explicacion": "El remanente es la cuenta donde se recogen los beneficios que la empresa ha decidido no repartir como dividendos ni asignar a una reserva específica. Es un beneficio 'pendiente de aplicación' que queda en el Patrimonio Neto.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Según el Plan General de Contabilidad la subcuenta \"Socios por desembolsos no exigidos, capital social\", figurará:",
+      "opciones": {
+        "a": "En el pasivo corriente.",
+        "b": "En el Patrimonio Neto, con signo negativo, minorando la cuenta de \"Capital Social\".",
+        "c": "En el pasivo no corriente.",
+        "d": "En el activo en el epígrafe \"Inversiones Financieras a corto plazo\"."
+      },
+      "explicacion": "Esta cuenta representa la parte del capital social suscrito que los socios aún no han pagado y que la empresa todavía no ha solicitado. En el balance, aparece dentro del Patrimonio Neto restando (signo negativo) al Capital Social, para reflejar que esa parte del capital aún no ha sido efectivamente aportada.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 6,
+      "pregunta": "El dividendo Activo a Cuenta figurará:",
+      "opciones": {
+        "a": "Incrementando el pasivo corriente.",
+        "b": "Incrementando el capital social.",
+        "c": "Reduciendo los fondos propios.",
+        "d": "En el activo."
+      },
+      "explicacion": "El dividendo activo a cuenta es un anticipo de los beneficios que se paga a los accionistas antes de aprobar las cuentas anuales. Contablemente, figura en el Patrimonio Neto con signo negativo, reduciendo los fondos propios, ya que es una salida de recursos anticipada a cuenta del resultado del ejercicio.",
+      "respuesta_correcta": "c"
+    },
     {
       "numero": 7,
       "pregunta": "Los fondos propios:",
@@ -11,7 +83,7 @@
         "c": "Forman parte del patrimonio neto.",
         "d": "Pertenecen al pasivo de la empresa."
       },
-      "explicacion": "El patrimonio neto es un concepto amplio que engloba la riqueza neta de la empresa. Los fondos propios son el componente principal de este patrimonio, representando las aportaciones de los socios y los beneficios que la empresa ha decidido reinvertir.",
+      "explicacion": "Los fondos propios son una subcategoría principal dentro del Patrimonio Neto. El Patrimonio Neto se compone de los Fondos Propios más los Ajustes por cambios de valor y las Subvenciones, donaciones y legados recibidos. Por tanto, los fondos propios forman parte del patrimonio neto, pero no son necesariamente iguales a él (si existen las otras partidas) ni inferiores por definición.",
       "respuesta_correcta": "c"
     },
     {
@@ -23,7 +95,7 @@
         "c": "No forma parte de los recursos propios.",
         "d": "Se reparte como dividendo siempre."
       },
-      "explicacion": "Cuando una empresa genera beneficios (saldo acreedor), ese dinero aumenta el valor de lo que pertenece a los propietarios. Por tanto, se suma a los fondos propios, incrementando la solvencia y el valor contable de la entidad.",
+      "explicacion": "En contabilidad, un saldo acreedor en la cuenta de Pérdidas y Ganancias (o Resultado del Ejercicio) significa que los ingresos han superado a los gastos, generando un beneficio. Este beneficio aumenta el valor de la empresa para los accionistas, por lo que se integra en los fondos propios sumando (signo positivo).",
       "respuesta_correcta": "a"
     },
     {
@@ -35,7 +107,7 @@
         "c": "Son destinados a dividendos.",
         "d": "Representan beneficios no distribuidos."
       },
-      "explicacion": "Las pérdidas de años pasados actúan como una deuda interna que reduce la riqueza de los socios. Contablemente, aparecen restando en el patrimonio neto para reflejar que la empresa debe recuperar ese valor antes de poder considerar que tiene beneficios reales acumulados.",
+      "explicacion": "Cuando una empresa tiene pérdidas (resultados negativos), estas se acumulan en el balance dentro del Patrimonio Neto (Fondos Propios) con signo negativo (cuenta 121), minorando los recursos propios de la empresa. Permanecen allí restando hasta que se compensen con beneficios futuros o reservas.",
       "respuesta_correcta": "b"
     },
     {
@@ -47,7 +119,7 @@
         "c": "Se imputarán en todo caso a la Reserva Legal un 10% del beneficio.",
         "d": "Se destinará una cifra del beneficio que represente, al menos, un cinco por ciento del fondo de comercio."
       },
-      "explicacion": "Este artículo legal establece la soberanía de los socios. Una vez que las cuentas anuales muestran una imagen fiel de la empresa y son aprobadas, es la Junta General quien tiene el poder de decidir si el beneficio se reparte como dividendos o se queda en la empresa como reservas.",
+      "explicacion": "El artículo 273.1 de la Ley de Sociedades de Capital establece la competencia de la Junta General para decidir sobre la aplicación del resultado. Una vez aprobado el balance que muestra el beneficio o pérdida, es la Junta quien decide su destino (reservas, dividendos, compensación de pérdidas, etc.).",
       "respuesta_correcta": "a"
     }
   ]

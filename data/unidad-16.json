@@ -1,0 +1,126 @@
+{
+  "unidad": 16,
+  "titulo": "Autoevaluación Unidad 16 - Contabilidad Financiera",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "De los que se señalan a continuación, ¿cuál es un instrumento de patrimonio según el Plan General de Contabilidad?",
+      "opciones": {
+        "a": "Una obligación.",
+        "b": "Una acción.",
+        "c": "Una fianza recibida.",
+        "d": "Un bono."
+      },
+      "explicacion": "Según el Plan General de Contabilidad, los instrumentos de patrimonio son aquellos negocios jurídicos que evidencian una participación residual en los activos de la empresa una vez deducidos todos sus pasivos. Las acciones representan partes alícuotas del capital social de una Sociedad Anónima, otorgando la condición de socio y propietario, por lo que son el ejemplo clásico de instrumento de patrimonio. Las obligaciones y bonos son instrumentos de deuda (pasivo).",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "De los que se indican a continuación, ¿cuál es un instrumento patrimonio según el Plan General de Contabilidad?",
+      "opciones": {
+        "a": "Un préstamo recibido del banco.",
+        "b": "Una participación en el capital de una Sociedad Limitada.",
+        "c": "Una fianza.",
+        "d": "Un crédito recibido."
+      },
+      "explicacion": "Al igual que las acciones en las Sociedades Anónimas, las participaciones en una Sociedad de Responsabilidad Limitada (S.L.) representan la propiedad del capital de la empresa. Por tanto, son instrumentos de patrimonio propio. Los préstamos y créditos son pasivos financieros (deuda).",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "De los que se indican a continuación, ¿cuál es un instrumento de deuda según el Plan General de Contabilidad?",
+      "opciones": {
+        "a": "Una acción.",
+        "b": "Una obligación.",
+        "c": "Una participación en el capital de una Sociedad Limitada.",
+        "d": "Una fianza constituida."
+      },
+      "explicacion": "Una obligación es un valor que representa una parte alícuota de un empréstito (deuda) emitido por una empresa. El tenedor de la obligación es un acreedor de la empresa, no un propietario, y tiene derecho a la devolución del principal y al cobro de intereses. Por ello, se clasifica como instrumento de deuda.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "¿En qué cuenta del Plan General de Contabilidad habrán de reconocerse unas obligaciones adquiridas como inversión a largo plazo?",
+      "opciones": {
+        "a": "Imposiciones a largo plazo.",
+        "b": "Valores representstivos de deuda a largo plazo",
+        "c": "Inversiones financieras a largo plazo en instrumentos de patrimonio.",
+        "d": "Fianzas constituidas a largo plazo."
+      },
+      "explicacion": "Las obligaciones son activos financieros que representan deuda de un tercero. Si la intención es mantenerlas por un periodo superior a un año (largo plazo), se contabilizan en la cuenta 'Valores representativos de deuda a largo plazo' (Subgrupo 24 del PGC). La opción C es incorrecta porque las obligaciones no son instrumentos de patrimonio.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Los intereses devengados por una inversión en obligaciones, se reconocerán en la cuenta:",
+      "opciones": {
+        "a": "“Beneficios por valoración de activos y pasivos financieros a su valor razonable”.",
+        "b": "“Beneficios en participaciones y valores representativos de deuda”.",
+        "c": "“Otros ingresos financieros”",
+        "d": "“Ingresos de valores representativos de deuda”."
+      },
+      "explicacion": "Los rendimientos explícitos (intereses) generados por la tenencia de obligaciones (que son valores de deuda) se registran en la cuenta de ingresos específica del PGC: 'Ingresos de valores representativos de deuda' (Cuenta 761).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "El derecho preferente de suscripción del accionista se posee:",
+      "opciones": {
+        "a": "En función del valor nominal de las acciones.",
+        "b": "En función del valor nominal desembolsado de las acciones.",
+        "c": "En función del valor de cotización, porque es el que sufre al final el efecto dilución.",
+        "d": "Dependerá de la existencia de obligaciones convertibles o no porque también tienen derecho preferente de suscripción en las ampliaciones de capital."
+      },
+      "explicacion": "El derecho de suscripción preferente permite a los antiguos accionistas mantener su porcentaje de participación en la empresa ante una ampliación de capital. Este derecho se asigna proporcionalmente al valor nominal de las acciones que ya poseen, independientemente de si estas están totalmente desembolsadas o de su valor de cotización en el mercado.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 7,
+      "pregunta": "En la valoración inicial, un accionista dará de alta la inversión realizada en el balance, catalogada como cartera especulativa, por:",
+      "opciones": {
+        "a": "El precio de la transacción, incluidos los costes atribuibles a la transacción.",
+        "b": "El precio de la transacción que se identifica con el importe efectivamente satisfecho o pendiente de pagar, excluidos los costes atribuibles a la transacción, que tendrán la consideración de gastos del ejercicio.",
+        "c": "El valor nominal del título satisfecho o pendiente de pagar.",
+        "d": "El valor nominal del título satisfecho o pendiente de pagar, excluidos los costes de la transacción."
+      },
+      "explicacion": "En la contabilidad financiera, para los activos financieros mantenidos para negociar (cartera especulativa), la norma de valoración establece que se registran inicialmente por su valor razonable (precio de transacción). Los costes de transacción atribuibles no se capitalizan (no se suman al valor del activo), sino que se reconocen directamente como gastos del ejercicio en la cuenta de pérdidas y ganancias.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "La valoración contable del derecho preferente de suscripción es obligatorio realizarla:",
+      "opciones": {
+        "a": "En función del precio de adquisición de las acciones antiguas.",
+        "b": "En función del valor de cotización de las acciones antiguas.",
+        "c": "En función del valor teórico de las acciones antiguas.",
+        "d": "En función de una fórmula valorativa de general aceptación."
+      },
+      "explicacion": "Para valorar contablemente el derecho de suscripción, especialmente cuando se segrega de la acción o para fines de registro, se debe utilizar un método objetivo. La normativa contable suele referirse al uso de fórmulas valorativas de general aceptación (como la fórmula teórica del valor del derecho) para determinar su valor razonable o coste, en lugar de depender únicamente de precios históricos o de cotización aislados.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Indique cuál de las siguientes expresiones es correcta:",
+      "opciones": {
+        "a": "Los antiguos accionistas tienen DPS en los aumentos de capital social con emisión de nuevas acciones.",
+        "b": "Los antiguos accionistas tienen DPS en los aumentos de capital social realizados mediante el incremento del valor nominal de las acciones existentes.",
+        "c": "Los antiguos accionistas y los poseedores de obligaciones convertibles nunca tienen DPS.",
+        "d": "No existe ningún caso de exclusión del DPS en las ampliaciones de capital."
+      },
+      "explicacion": "El Derecho Preferente de Suscripción (DPS) nace específicamente para proteger a los antiguos accionistas del efecto dilución cuando se emiten nuevas acciones. Al emitir nuevas acciones, el porcentaje de propiedad del socio antiguo bajaría si no tuviera preferencia para comprar las nuevas. En cambio, aumentar el valor nominal no implica emitir nuevos títulos, por lo que no genera este derecho de la misma forma.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 10,
+      "pregunta": "La acción es un título que puede tener estos tres valores:",
+      "opciones": {
+        "a": "Valor de emisión, valor de reembolso y valor de cotización.",
+        "b": "Valor de emisión, valor de reembolso y valor teórico.",
+        "c": "Valor nominal, valor de emisión y valor teórico.",
+        "d": "Valor nominal, valor de reembolso y valor de cotización."
+      },
+      "explicacion": "Desde el punto de vista financiero y contable, una acción se caracteriza fundamentalmente por tres valores: 1) Valor Nominal (el valor facial impreso en el título y parte del capital social), 2) Valor de Emisión (el precio al que se vende la acción al emitirse, que puede incluir prima de emisión), y 3) Valor Teórico (el valor contable de la acción según el patrimonio neto de la empresa). El valor de reembolso es propio de obligaciones o acciones rescatables, y la cotización es un valor de mercado externo.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}

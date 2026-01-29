@@ -1,0 +1,126 @@
+{
+  "unidad": 17,
+  "titulo": "Autoevaluación Unidad 17 - Contabilidad Financiera",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Es un instrumento financiero...:",
+      "opciones": {
+        "a": "Una obligación.",
+        "b": "Una acción.",
+        "c": "Un bono.",
+        "d": "Todos los anteriores."
+      },
+      "explicacion": "Un instrumento financiero es cualquier contrato que dé lugar a un activo financiero en una entidad y a un pasivo financiero o a un instrumento de patrimonio en otra. Esto incluye tanto títulos de deuda (obligaciones, bonos) como títulos de propiedad (acciones).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Un pasivo financiero supone:",
+      "opciones": {
+        "a": "Un desembolso.",
+        "b": "Una obligación contractual.",
+        "c": "Una inversión.",
+        "d": "Un crédito otorgado."
+      },
+      "explicacion": "La definición fundamental de un pasivo financiero es la existencia de una obligación contractual (directa o indirecta) de entregar efectivo u otro activo financiero a otra entidad, o de intercambiar activos/pasivos financieros en condiciones potencialmente desfavorables.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Cuáles de los siguientes elementos se consideran pasivos financieros:",
+      "opciones": {
+        "a": "Una acción.",
+        "b": "Una deuda con un banco.",
+        "c": "Una participación en el capital de una Sociedad Limitada.",
+        "d": "Una fianza constituida."
+      },
+      "explicacion": "Una deuda con un banco es una obligación contractual de devolver el principal prestado más los intereses, lo cual cumple estrictamente con la definición de pasivo financiero. Las acciones y participaciones son instrumentos de patrimonio (o activos para quien las posee).",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Los instrumentos financieros se valoran:",
+      "opciones": {
+        "a": "Por su coste amortizado.",
+        "b": "Por su coste de transacción.",
+        "c": "Por su valor razonable.",
+        "d": "Por su coste histórico."
+      },
+      "explicacion": "Según las normas internacionales y el PGC, el criterio de valoración inicial y de referencia para muchos instrumentos financieros es el valor razonable (fair value), que representa el precio de mercado o estimado de intercambio, aunque posteriormente algunos se midan a coste amortizado.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Los Débitos y Partidas a Pagar son:",
+      "opciones": {
+        "a": "Deudas por operaciones comerciales.",
+        "b": "Activos inmobiliarios.",
+        "c": "Otros ingresos financieros.",
+        "d": "Acciones de la propia empresa."
+      },
+      "explicacion": "La categoría de 'Débitos y partidas a pagar' agrupa los pasivos financieros originados por la compra de bienes y servicios en el tráfico ordinario de la empresa (operaciones comerciales), así como otras deudas no comerciales que no son instrumentos derivados.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 6,
+      "pregunta": "¿Cuándo dará una empresa de baja un pasivo financiero?:",
+      "opciones": {
+        "a": "En función de la variación de su coste financiero.",
+        "b": "Cuando se considere impagable.",
+        "c": "Cuando se desvincule del activo que la originó.",
+        "d": "Cuando la obligación haya desaparecido."
+      },
+      "explicacion": "Un pasivo financiero se da de baja del balance únicamente cuando la obligación se extingue; esto ocurre cuando la deuda ha sido pagada, cancelada o ha expirado legalmente (la obligación ha desaparecido).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Un ejemplo de instrumento de patrimonio propio sería:",
+      "opciones": {
+        "a": "Las acciones de una filial.",
+        "b": "Las acciones de la propia empresa.",
+        "c": "Un bono convertible en acciones de otra empresa.",
+        "d": "Un pagaré financiero."
+      },
+      "explicacion": "Los instrumentos de patrimonio propio son aquellos negocios jurídicos que evidencian una participación residual en los activos de la empresa una vez deducidos todos sus pasivos. Las acciones de la propia empresa (autocartera o capital emitido) representan la propiedad de la entidad y no una obligación de pago, por lo que constituyen patrimonio neto.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Los derivados pueden representar:",
+      "opciones": {
+        "a": "Contratos con derechos y obligaciones.",
+        "b": "Valores de inversión seguros.",
+        "c": "Solo activos.",
+        "d": "Solo pasivos."
+      },
+      "explicacion": "Un instrumento financiero derivado es un contrato cuyo valor cambia en respuesta a cambios en una variable observable (activo subyacente). Estos contratos generan derechos (activos) u obligaciones (pasivos) para las partes dependiendo de la fluctuación del mercado, por lo que la definición más precisa es que engloban ambos conceptos contractuales.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 9,
+      "pregunta": "La diferencia fundamental entre un pasivo financiero y un instrumento de patrimonio propio radica en:",
+      "opciones": {
+        "a": "Los dividendos obligatorios en el caso de los instrumentos de patrimonio propio.",
+        "b": "Los criterios del sujeto tenedor del bien.",
+        "c": "La existencia de una obligación contractual.",
+        "d": "No existe ninguna diferencia significativa."
+      },
+      "explicacion": "Según la normativa contable (como la NIC 32), la distinción clave es la obligación. Un pasivo financiero existe cuando hay una obligación contractual de entregar efectivo u otro activo financiero. Un instrumento de patrimonio no conlleva la obligación contractual de entregar nada (el reparto de dividendos es discrecional), sino que representa una participación residual.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 10,
+      "pregunta": "La deuda con un proveedor generada por la compra de maquinaria para la empresa seria:",
+      "opciones": {
+        "a": "Una deuda a corto plazo.",
+        "b": "Una deuda a largo plazo.",
+        "c": "Según su vencimiento, podría ser una deuda a corto o largo plazo.",
+        "d": "Un instrumento de patrimonio."
+      },
+      "explicacion": "La clasificación de una deuda (pasivo) como corriente (corto plazo) o no corriente (largo plazo) depende exclusivamente de cuándo es exigible su liquidación. Si el pago de la maquinaria debe realizarse en menos de un año, es a corto plazo; si excede el año, es a largo plazo.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}

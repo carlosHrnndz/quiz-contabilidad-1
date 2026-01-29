@@ -1,0 +1,126 @@
+{
+  "unidad": 15,
+  "titulo": "Autoevaluación Unidad 15 - Contabilidad Financiera",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "La cuenta (576) Inversiones a corto plazo de gran liquidez recoge las inversiones financieras convertibles en efectivo:",
+      "opciones": {
+        "a": "Con un vencimiento no superior a un año.",
+        "b": "Con un vencimiento no superior al ciclo de explotación.",
+        "c": "Sea cual sea su plazo de vencimiento.",
+        "d": "Con un vencimiento no superior a tres meses."
+      },
+      "explicacion": "Según el Plan General Contable, para que una inversión financiera se considere un equivalente al efectivo (y se registre en cuentas como la 576), debe tener una gran liquidez y un vencimiento no superior a tres meses desde la fecha de adquisición, sin riesgo significativo de cambio de valor.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "La Tesorería en moneda extranjera puede generar diferencias de cambio al cierre de ejercicio:",
+      "opciones": {
+        "a": "Sí, porque se trata de una partida monetaria.",
+        "b": "Sí, porque se trata de una partida no monetaria.",
+        "c": "El nuevo PGC no contempla las diferencias de cambio en Tesorería.",
+        "d": "Sí, pero sólo diferencias positivas por tratarse del efectivo."
+      },
+      "explicacion": "La tesorería (caja y bancos) es una partida monetaria. Al cierre del ejercicio, las partidas monetarias en moneda extranjera deben valorarse al tipo de cambio de cierre, reconociendo las diferencias de cambio (positivas o negativas) en la cuenta de pérdidas y ganancias.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 3,
+      "pregunta": "La ratio de circulante es una medida de:",
+      "opciones": {
+        "a": "La gestión industrial de la empresa.",
+        "b": "La gestión económica de una empresa.",
+        "c": "La liquidez de la empresa.",
+        "d": "El nivel de efectivo existente en la empresa."
+      },
+      "explicacion": "El ratio de circulante (o ratio de liquidez general) compara el activo corriente con el pasivo corriente. Su objetivo es medir la capacidad de la empresa para hacer frente a sus deudas a corto plazo con sus activos a corto plazo, es decir, mide la liquidez.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 4,
+      "pregunta": "La conciliación bancaria consiste en:",
+      "opciones": {
+        "a": "Ajustar los saldos según las partidas de compras.",
+        "b": "Ajustar los saldos bancarios con las cuentas contables de caja.",
+        "c": "Ajustar los saldos de los préstamos bancarios.",
+        "d": "Ajustar los saldos contables."
+      },
+      "explicacion": "La conciliación bancaria es un proceso de control que consiste en comparar y ajustar los saldos registrados en los libros contables de la empresa (cuentas de tesorería/bancos) con los saldos reportados por la entidad financiera en el extracto bancario, para identificar y corregir discrepancias.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "¿Cuál de las siguientes cuentas no pertenece a Tesorería?",
+      "opciones": {
+        "a": "Caja, moneda extranjera.",
+        "b": "Partidas pendientes de aplicación.",
+        "c": "Bancos e instituciones de crédito, c/c a la vista.",
+        "d": "Inversiones el capital de otras empresas."
+      },
+      "explicacion": "Las inversiones en el capital de otras empresas (acciones o participaciones) son inversiones financieras (a largo o corto plazo) y no se consideran tesorería o efectivo, a menos que cumplan condiciones muy estrictas de liquidez inmediata y vencimiento muy corto (equivalentes de efectivo), lo cual no es la norma general para inversiones en capital.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "¿Puede ser considerado efectivo un depósito de 6.000 euros con vencimiento a 4 meses?",
+      "opciones": {
+        "a": "Depende del tipo de interés pactado con la entidad financiera.",
+        "b": "Sí.",
+        "c": "Depende de la entidad financiera en la que se haya realizado el depósito.",
+        "d": "No."
+      },
+      "explicacion": "Para que una inversión se considere efectivo o equivalente al efectivo, su vencimiento debe ser de tres meses o menos desde la fecha de adquisición. Un depósito a 4 meses excede este límite temporal.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "El descubierto en cuenta corriente o los números rojos que tenga la empresa al cierre del ejercicio, ¿en qué agrupación del balance debe incluirse según el Plan General de Contabilidad?:",
+      "opciones": {
+        "a": "Inversiones financieras a corto plazo.",
+        "b": "Deudores.",
+        "c": "Pasivo corriente.",
+        "d": "Efectivo."
+      },
+      "explicacion": "Los descubiertos bancarios (números rojos) representan una deuda inmediata con la entidad financiera. Al ser una obligación de pago a corto plazo, se clasifican dentro del Pasivo Corriente, específicamente como deudas con entidades de crédito, y no restando del activo.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Los índices de liquidez nos miden:",
+      "opciones": {
+        "a": "La rentabilidad de la empresa.",
+        "b": "La posibilidad de insolvencia.",
+        "c": "Los acreedores.",
+        "d": "La eficiencia de las actividades de la empresa."
+      },
+      "explicacion": "Los ratios de liquidez evalúan la capacidad que tiene la empresa para hacer frente a sus deudas a corto plazo con sus activos corrientes. Por tanto, sirven para medir el riesgo o la posibilidad de insolvencia técnica (incapacidad de pago).",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Las diferencias de cambio surgidas al valorar la moneda extranjera que se originen al cierre del ejercicio, se reconocerán:",
+      "opciones": {
+        "a": "En la Cuenta de Pérdidas y Ganancias.",
+        "b": "En la Cuenta de Pérdidas y Ganancias si son positivas, y en cuentas de patrimonio neto si son negativas.",
+        "c": "En cuentas de patrimonio neto si no están realizadas.",
+        "d": "En cuentas de pasivo siempre."
+      },
+      "explicacion": "Según el Plan General de Contabilidad, al cierre del ejercicio, las partidas monetarias en moneda extranjera se valoran al tipo de cambio de cierre. Las diferencias que surjan (sean beneficios o pérdidas) se imputan directamente al resultado del ejercicio, es decir, a la Cuenta de Pérdidas y Ganancias.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Con respecto a la cuenta \"Diferencias positivas de cambio\", contenida en el Plan General de Contabilidad podemos afirmar que representa:",
+      "opciones": {
+        "a": "Un pasivo.",
+        "b": "Un gasto.",
+        "c": "Un ingreso.",
+        "d": "Un activo."
+      },
+      "explicacion": "La cuenta 'Diferencias positivas de cambio' (generalmente la 768 en el PGC español) recoge los beneficios generados por variaciones favorables en el tipo de cambio. Al pertenecer al grupo 7, se clasifica como un ingreso financiero.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "unidad": 13,
+  "titulo": "Autoevaluación Unidad 13 - Contabilidad Financiera",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "La cuenta Remuneraciones pendientes de pago:",
+      "opciones": {
+        "a": "Presenta saldo acreedor.",
+        "b": "Presenta saldo deudor.",
+        "c": "No se encuentra en el pasivo de la empresa.",
+        "d": "Siempre va en el activo de la empresa."
+      },
+      "explicacion": "Esta cuenta (generalmente la 465 en el Plan General Contable) representa las deudas que la empresa tiene con sus empleados por sueldos devengados pero aún no abonados. Al ser una cuenta de Pasivo (una obligación), su saldo aumenta por el haber, por lo que presenta saldo acreedor.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Por cuotas a cargo del trabajador, la empresa puede:",
+      "opciones": {
+        "a": "Ser deudora de la Seguridad Social.",
+        "b": "Ser acreedora de la Seguridad Social.",
+        "c": "Ampliar sus ingresos.",
+        "d": "Disminuir sus deudas."
+      },
+      "explicacion": "Aunque lo habitual es que la empresa retenga la cuota obrera y se convierta en deudora ante la Seguridad Social para ingresarla, existen situaciones (como el pago delegado de prestaciones por incapacidad temporal o maternidad) donde la empresa adelanta dinero por cuenta de la Seguridad Social. En esos casos de compensación o devolución, la empresa puede figurar como acreedora frente al organismo.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Las fianzas recibidas constituyen:",
+      "opciones": {
+        "a": "Depósitos bancarios.",
+        "b": "Pasivos de crédito.",
+        "c": "Inversiones financieras.",
+        "d": "Efectivo que la empresa recibe con la finalidad de garantizar una obligación."
+      },
+      "explicacion": "Las fianzas recibidas son importes de efectivo que entran en la empresa como garantía del cumplimiento de una obligación por parte de un tercero (por ejemplo, un inquilino). Se consideran un pasivo porque la empresa tiene la obligación de devolver ese dinero cuando finalice el contrato o la garantía, siempre que no haya incumplimientos.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Una de las características que tienen las fuentes de financiación ajena es:",
+      "opciones": {
+        "a": "Que tienen un saldo deudor.",
+        "b": "Que suelen tener un coste financiero.",
+        "c": "Que no son onerosas.",
+        "d": "Que reflejan un incremento del patrimonio neto."
+      },
+      "explicacion": "La financiación ajena (pasivos, préstamos) implica obtener recursos de terceros que deben ser devueltos. A diferencia de la financiación propia, el uso de dinero ajeno suele conllevar el pago de intereses, lo que representa un coste financiero explícito para la empresa.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Las deudas de naturaleza comercial con suministradores de servicios que no tienen la condición estricta de proveedores, y que estén formalizadas en efectos de giro aceptados, se reconocerán en la cuenta:",
+      "opciones": {
+        "a": "\"Acreedores, efectos comerciales a pagar\".",
+        "b": "\"Proveedores, efectos comerciales a pagar\".",
+        "c": "\"Efectos a pagar a corto plazo\".",
+        "d": "\"Acreedores por prestaciones de servicios\"."
+      },
+      "explicacion": "Se clasifican como 'Acreedores' (y no proveedores) porque suministran servicios y no la mercancía principal de la actividad. Al estar la deuda documentada en un efecto de giro (letra de cambio o pagaré), se debe especificar en la subcuenta 'efectos comerciales a pagar'.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 6,
+      "pregunta": "La cuenta \"Remuneraciones pendientes de pago\" contenida en el Plan General de Contabilidad, representa:",
+      "opciones": {
+        "a": "Un ingreso.",
+        "b": "Un activo.",
+        "c": "Un gasto.",
+        "d": "Un pasivo."
+      },
+      "explicacion": "Representa una obligación presente de la empresa surgida a raíz de servicios laborales recibidos en el pasado, cuyo vencimiento supondrá una salida de recursos (dinero). Por definición contable, toda obligación de pago es un Pasivo.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Los débitos por operaciones comerciales (proveedores y acreedores varios) se deben valorar inicialmente:",
+      "opciones": {
+        "a": "Por su valor razonable.",
+        "b": "Por su valor de mercado.",
+        "c": "Por su coste medio ponderado.",
+        "d": "Por su pasivo."
+      },
+      "explicacion": "Según la normativa contable (como el Plan General de Contabilidad), los pasivos financieros por operaciones comerciales se valoran inicialmente por su valor razonable, que, salvo evidencia en contrario, es el precio de la transacción.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Las fianzas recibidas constituyen:",
+      "opciones": {
+        "a": "Depósitos bancarios.",
+        "b": "Créditos en el pasivo.",
+        "c": "Inversiones financieras.",
+        "d": "Efectivo que la empresa recibe con la finalidad de garantizar una obligación."
+      },
+      "explicacion": "Una fianza recibida es un pasivo no corriente (o corriente, según el plazo) que representa una cantidad de efectivo recibida como garantía del cumplimiento de una obligación contractual, la cual deberá ser devuelta al finalizar el contrato si se cumplen las condiciones.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Un ejemplo de fianza recibida puede ser:",
+      "opciones": {
+        "a": "Un depósito bancario.",
+        "b": "Un préstamo.",
+        "c": "Un anticipo de clientes.",
+        "d": "Efectivo recibido de un inquilino."
+      },
+      "explicacion": "El caso más común de fianza recibida ocurre en los arrendamientos, donde el arrendador (la empresa) recibe dinero del inquilino para garantizar el buen estado del inmueble o el cumplimiento del contrato.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Un ejemplo de una deuda con un Organismo Oficial seria:",
+      "opciones": {
+        "a": "El IVA repercutido a clientes.",
+        "b": "El IVA soportado en las compras.",
+        "c": "Una letra de cambio emitida a un cliente.",
+        "d": "Una letra del Tesoro."
+      },
+      "explicacion": "El IVA repercutido es el impuesto que la empresa cobra a sus clientes en nombre de Hacienda. Ese dinero no pertenece a la empresa, sino que genera una obligación de pago (deuda) frente a la Hacienda Pública (Organismo Oficial) que debe liquidarse periódicamente.",
+      "respuesta_correcta": "a"
+    }
+  ]
+}
