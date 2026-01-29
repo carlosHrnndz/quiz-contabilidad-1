@@ -27,6 +27,7 @@ class QuizApp {
         this.unitQuestionCounts = {};
         this.sessionCode = '';
         this.firebaseInitialized = false;
+        this.resumeAvailable = false;
 
         // V5 Global Stats
         this.globalStats = {
@@ -208,8 +209,10 @@ class QuizApp {
             this.selectedUnits.add(u);
         });
 
-        this.ui.btnStart.addEventListener('click', () => this.startQuiz());
-        this.ui.btnStats.addEventListener('click', () => this.showStats());
+        this.ui.btnStart.addEventListener('click', () => {
+            this.startQuiz(this.resumeAvailable);
+            this.resumeAvailable = false; // Reset flag after start
+        }); this.ui.btnStats.addEventListener('click', () => this.showStats());
         this.ui.btnCloseStats.addEventListener('click', () => this.ui.modalStats.classList.add('hidden'));
 
         this.ui.btnSelectAll.addEventListener('click', () => {
@@ -377,9 +380,9 @@ class QuizApp {
         const stored = localStorage.getItem(this.getStorageKey());
         if (stored) {
             this.applyData(JSON.parse(stored));
+            this.resumeAvailable = true;
             return true;
-        }
-        return false;
+        } return false;
     }
 
     async loadData() {
@@ -476,7 +479,7 @@ class QuizApp {
         this.updateSelectedCount();
     }
 
-    startQuiz() {
+    startQuiz(resume = false) {
         this.saveSessionCode();
         let filtered = this.allQuestions.filter(q => this.selectedUnits.has(Number(q.unidad)));
         if (filtered.length === 0) { alert('Selecciona al menos una unidad.'); return; }
@@ -525,10 +528,18 @@ class QuizApp {
         }
 
         this.questions = filtered;
-        this.currentQuestionIndex = 0;
-        this.userAnswers = {};
-        this.pendingQuestions.clear();
-        this.score = 0;
+
+        if (!resume) {
+            this.currentQuestionIndex = 0;
+            this.userAnswers = {};
+            this.pendingQuestions.clear();
+            this.score = 0;
+        } else {
+            // Basic validation
+            if (this.currentQuestionIndex >= this.questions.length) {
+                this.currentQuestionIndex = 0;
+            }
+        }
 
         this.ui.splashScreen.classList.add('hidden');
         this.ui.quizApp.classList.remove('hidden');
