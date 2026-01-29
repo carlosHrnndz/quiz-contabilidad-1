@@ -59,6 +59,13 @@ body {
     background: radial-gradient(circle at top right, #1f2937 0%, transparent 40%);
 }
 
+/* Wider Layout for Desktop */
+@media (min-width: 1024px) {
+    .app-container {
+        max-width: 1200px;
+    }
+}
+
 /* Header */
 .app-header {
     display: flex;
