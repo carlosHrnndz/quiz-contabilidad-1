@@ -374,6 +374,7 @@ class QuizApp {
             const cloud = await this.loadFromCloud();
             if (cloud) {
                 this.setupCloudListener();
+                this.resumeAvailable = true;
                 return true;
             }
         }
