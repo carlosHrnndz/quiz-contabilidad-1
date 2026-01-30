@@ -1,0 +1,126 @@
+{
+  "unidad": 24,
+  "titulo": "Autoevaluación Unidad 24: Cambios de Criterio, Estimaciones y Hechos Posteriores",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Una empresa viene valorando tradicionalmente su almacén siguiendo el método LIFO. Dado que este método no está admitido por el PGC, ¿qué hará la empresa?",
+      "opciones": {
+        "a": "Seguirá con el mismo método e informará en la memoria.",
+        "b": "Cambiará a FIFO, y recogerá el efecto de forma prospectiva.",
+        "c": "Cambiará al precio medio ponderado y lo repercutirá a P y G.",
+        "d": "Elegirá un método de valoración y lo aplicará de forma retrospectiva."
+      },
+      "explicacion": "El cambio de un método de valoración de existencias (como abandonar LIFO porque no está permitido) se considera un cambio de criterio contable. Según la normativa contable (PGC), los cambios de criterio se deben aplicar de forma retrospectiva, calculando el efecto acumulado desde el inicio como si siempre se hubiera aplicado el nuevo criterio y ajustando el patrimonio neto (reservas).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Una empresa, al cierre del ejercicio X1, se da cuenta de que está aplicando un coste de amortización no adecuado a un elemento de Inmovilizado material. ¿Qué deberá hacer la empresa?",
+      "opciones": {
+        "a": "Seguir con el mismo criterio.",
+        "b": "Calcular el nuevo coste aplicando el nuevo porcentaje y hacerlo retrospectivamente.",
+        "c": "Calcular el nuevo coste aplicando el nuevo porcentaje y hacerlo de forma prospectiva.",
+        "d": "Solamente informaremos en la memoria del cambio de vida útil."
+      },
+      "explicacion": "La modificación de la vida útil o el patrón de consumo de un activo se clasifica como un cambio en una estimación contable (no de criterio). Los cambios en estimaciones se aplican de forma prospectiva, es decir, afectan al ejercicio actual y a los futuros, sin modificar los estados financieros de ejercicios pasados.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Una empresa tenía dotada una “Provisión para responsabilidades” de 5.000 € para cubrir los gastos originados por un litigio del ejercicio X2. El 28 de enero del ejercicio X3 se confirma que los gastos del litigio ascenderán a 5.790 €. El Consejo de Administración aprueba la formulación de las cuentas anuales a 30 de marzo de X3. ¿Qué hará la empresa?",
+      "opciones": {
+        "a": "Ajustará la “Provisión” que ya existía al cierre del ejercicio.",
+        "b": "No hará nada.",
+        "c": "Esperará al pago de las costas y sanción.",
+        "d": "Dotará una nueva provisión, cancelando la anterior."
+      },
+      "explicacion": "Se trata de un hecho posterior al cierre del ejercicio que ocurre antes de la formulación de las cuentas anuales. Dado que el hecho (la sentencia o confirmación del coste) proporciona evidencia sobre una situación que ya existía al cierre del ejercicio X2 (el litigio), la normativa obliga a ajustar las cuentas anuales de X2 para reflejar el importe correcto.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Un cambio de criterio contable significará que la empresa efectuará:",
+      "opciones": {
+        "a": "Un ajuste de forma retrospectiva, afectando a la información del balance.",
+        "b": "Un ajuste de forma prospectiva, afectando al balance.",
+        "c": "Un ajuste de forma retrospectiva, afectando al balance y a la cuenta de resultados.",
+        "d": "Solo informará en la memoria."
+      },
+      "explicacion": "Los cambios de criterio contable tienen aplicación retroactiva. Esto implica reexpresar la información comparativa. Afecta al balance (ajustando el saldo inicial de reservas/patrimonio neto) y a la cuenta de resultados de los ejercicios anteriores presentados a efectos comparativos.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Un cambio en una estimación contable se aplicará de forma prospectiva y su efecto se imputará:",
+      "opciones": {
+        "a": "Como ingreso en la cuenta de pérdidas y ganancias del ejercicio o, cuando proceda, directamente al patrimonio neto.",
+        "b": "Como gasto en la cuenta de pérdidas y ganancias del ejercicio o, cuando proceda, directamente al patrimonio neto.",
+        "c": "Como ingreso o gasto en la cuenta de pérdidas y ganancias del ejercicio o, cuando proceda, directamente al patrimonio neto.",
+        "d": "En el pasivo exigible, siempre a corto plazo."
+      },
+      "explicacion": "Los cambios en estimaciones contables se reconocen en el resultado del ejercicio en curso (como ingreso o gasto en PyG). No obstante, si la estimación original afectaba a una partida imputada directamente al patrimonio neto, el cambio en dicha estimación también se imputará al patrimonio neto.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Una empresa descubre un fraude que le causa un perjuicio de 4.000€. El tratamiento de este suceso sería:",
+      "opciones": {
+        "a": "Un error.",
+        "b": "Un cambio de estimaciones.",
+        "c": "Un hecho posterior al cierre del ejercicio.",
+        "d": "Un cambio de criterio."
+      },
+      "explicacion": "El descubrimiento de un fraude se clasifica contablemente como un error (o irregularidad). A diferencia de los cambios de estimación (que surgen de nueva información sobre hechos futuros) o cambios de criterio, los errores son omisiones o inexactitudes en los estados financieros de periodos anteriores. Su subsanación suele requerir reexpresión retroactiva.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Un cliente importante entra en concurso de acreedores con posterioridad al cierre del ejercicio pero antes de la formulación de cuentas. Esto representa:",
+      "opciones": {
+        "a": "Un cambio de criterio contable.",
+        "b": "Un hecho posterior que pone de manifiesto condiciones que no existían al cierre del ejercicio.",
+        "c": "Un hecho posterior que pone de manifiesto condiciones que ya existían al cierre del ejercicio.",
+        "d": "Un error en la estimación realizada."
+      },
+      "explicacion": "Este es el ejemplo clásico de un 'hecho posterior que implica ajuste'. La entrada en concurso de acreedores poco después del cierre generalmente confirma una situación de insolvencia o deterioro del crédito que ya existía latente en la fecha del balance, por lo que se debe ajustar la valoración del activo (cliente) en las cuentas de ese ejercicio.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Un hecho relevante posterior al cierre del ejercicio:",
+      "opciones": {
+        "a": "Motivará un ajuste.",
+        "b": "Obligará a informar en la memoria.",
+        "c": "Necesariamente se realizarán ajustes en ejercicios anteriores.",
+        "d": "No obliga a nada."
+      },
+      "explicacion": "Si un hecho posterior es relevante (significativo) pero no pone de manifiesto condiciones que existían al cierre (es decir, no requiere ajuste contable numérico), la normativa obliga a informar sobre él en la memoria para que los usuarios de los estados financieros tengan toda la información necesaria para la toma de decisiones.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Un ejemplo de cambio de estimaciones contables sería:",
+      "opciones": {
+        "a": "Un cambio en la valoración de existencias.",
+        "b": "Una cambio en la vida útil de un activo.",
+        "c": "Un robo de mobiliario.",
+        "d": "Un ajuste en la memoria."
+      },
+      "explicacion": "La vida útil de un activo se basa en una estimación del tiempo que la empresa espera usarlo. Si las circunstancias cambian y se decide que durará más o menos tiempo, se trata de un cambio en una estimación contable. Este cambio se aplica de forma prospectiva (hacia el futuro), a diferencia de los cambios de criterio o errores.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "El hecho de que el ajuste se realice con cargo o abono a reservas mediante un sistema retroactivo en un cambio de criterio contable implica:",
+      "opciones": {
+        "a": "Un ajuste en la cuenta de resultados.",
+        "b": "Un cambio en el valor del pasivo asociado al activo.",
+        "c": "Un ajuste a las reservas de los años anteriores.",
+        "d": "Una variación de la posición de caja."
+      },
+      "explicacion": "Cuando se cambia un criterio contable, la norma general es la aplicación retroactiva. Esto significa que se debe calcular el efecto acumulado del cambio como si siempre se hubiera aplicado el nuevo criterio y ajustar el saldo inicial del patrimonio neto (reservas) de los ejercicios anteriores, en lugar de imputarlo a la cuenta de resultados del año actual.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "unidad": 21,
-  "titulo": "Autoevaluación Unidad 21: Contabilidad Financiera - Subvenciones",
+  "titulo": "Autoevaluación Unidad 21 - Contabilidad Financiera (Subvenciones)",
   "preguntas": [
     {
       "numero": 1,
@@ -11,7 +11,7 @@
         "c": "Subvención para cancelar deudas.",
         "d": "Subvención sin asignación específica."
       },
-      "explicacion": "Las subvenciones a la explotación son aquellas que se conceden para asegurar una rentabilidad mínima o compensar déficits de explotación, permitiendo, como en este caso, ofrecer servicios a precios reducidos. Se imputan directamente al resultado del ejercicio.",
+      "explicacion": "Las subvenciones concedidas para asegurar una rentabilidad mínima o compensar déficit de explotación (como permitir precios reducidos cubriendo la diferencia de costes) se consideran subvenciones a la explotación y se imputan como ingresos del ejercicio.",
       "respuesta_correcta": "b"
     },
     {
@@ -23,7 +23,7 @@
         "c": "Un incremento de capital social.",
         "d": "Un incremento de reservas."
       },
-      "explicacion": "Según la normativa contable (NRV 18ª del PGC), las aportaciones de los socios o propietarios no se consideran ingresos ni subvenciones en sentido estricto (pasivos o patrimonio neto diferido), sino que se registran directamente como un incremento de los fondos propios, ya que actúan en su condición de dueños.",
+      "explicacion": "Las aportaciones de los socios, incluidas las subvenciones otorgadas por ellos, no constituyen ingresos para la empresa, sino que se registran directamente en los fondos propios como operaciones con los propietarios.",
       "respuesta_correcta": "b"
     },
     {
@@ -35,7 +35,7 @@
         "c": "Valor razonable.",
         "d": "Valor actual."
       },
-      "explicacion": "Aunque la norma general (NRV 18ª) suele referirse al 'valor razonable' para las no monetarias, la opción marcada en el examen es 'Valor actual'. Esto puede referirse al valor actual de los flujos de efectivo futuros si la subvención es monetaria y se recibe de forma diferida, o a una interpretación específica del material didáctico de la unidad.",
+      "explicacion": "Aunque la norma general (NRV 18ª) suele referirse al valor razonable para las no monetarias, en este examen se marca 'Valor actual'. Esto suele aplicar específicamente al reconocimiento del derecho de cobro (crédito) generado por la subvención si existe un diferimiento en el pago, valorándose por el valor actual de los flujos de efectivo futuros.",
       "respuesta_correcta": "d"
     },
     {
@@ -47,7 +47,7 @@
         "c": "Fondos Propios = Patrimonio Neto.",
         "d": "Capital = Patrimonio Neto."
       },
-      "explicacion": "Las subvenciones oficiales de capital no reintegrables se contabilizan inicialmente en el patrimonio neto (dentro del subgrupo 13) y se imputan a resultados posteriormente, correlacionadas con la amortización de los activos financiados. Por tanto, mientras están pendientes de imputar, forman parte del Patrimonio Neto.",
+      "explicacion": "Las subvenciones oficiales de capital no reintegrables se contabilizan inicialmente en el patrimonio neto (dentro del epígrafe 'Subvenciones, donaciones y legados recibidos') antes de ser transferidas a la cuenta de pérdidas y ganancias.",
       "respuesta_correcta": "a"
     },
     {
@@ -59,7 +59,7 @@
         "c": "Es un pasivo.",
         "d": "Ninguna de las demás opciones es correcta."
       },
-      "explicacion": "Las subvenciones reintegrables se consideran deudas (pasivos) porque existe la obligación de devolverlas si no se cumplen ciertas condiciones, o simplemente porque tienen naturaleza de préstamo hasta que se convierten en no reintegrables.",
+      "explicacion": "Mientras una subvención tenga carácter de reintegrable (porque no se han cumplido las condiciones para su concesión definitiva), se considera una deuda con la entidad concedente, por lo tanto, es un pasivo.",
       "respuesta_correcta": "c"
     },
     {
@@ -71,7 +71,55 @@
         "c": "En la cuenta correspondiente del subgrupo 13.",
         "d": "Otras subvenciones, donaciones y legados transferidos al resultado del ejercicio."
       },
-      "explicacion": "Al estar destinada a financiar un déficit de explotación (gastos del ciclo de negocio), se trata de una subvención a la explotación. Se reconoce como ingreso del ejercicio en la cuenta 'Subvenciones, donaciones y legados a la explotación' (grupo 74).",
+      "explicacion": "Las subvenciones destinadas a cubrir déficits de explotación se reconocen como ingresos del ejercicio en la cuenta 'Subvenciones, donaciones y legados a la explotación' (generalmente cuenta 740), sin pasar por el patrimonio neto.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Una empresa recibe en el año 200X del Gobierno de Cantabria una subvención no reintegrable para el establecimiento de su estructura fija. ¿En qué cuenta de las que se indican ha de reconocer inicialmente dicha subvención en el año 200X?",
+      "opciones": {
+        "a": "Otras subvenciones, donaciones y legados transferidos al resultado del ejercicio.",
+        "b": "Subvenciones oficiales de capital.",
+        "c": "Subvenciones, donaciones y legados de capital transferidos al resultado del ejercicio.",
+        "d": "Subvenciones, donaciones y legados a la explotación."
+      },
+      "explicacion": "Las subvenciones no reintegrables concedidas para establecer la estructura fija (activos no corrientes) se consideran subvenciones de capital. Según el Plan General de Contabilidad, estas se reconocen inicialmente en el patrimonio neto (subgrupo 13) bajo la cuenta 'Subvenciones oficiales de capital' antes de imputarse a resultados a medida que se amortiza el inmovilizado financiado.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "¿Cuál es la diferencia entre el tratamiento contable de las subvenciones en el Plan General de Contabilidad y el PGC PYMES?",
+      "opciones": {
+        "a": "Los diferentes criterios valorativos empleados para las subvenciones en ambos textos legales.",
+        "b": "La conexión que se establece en el Plan General de Contabilidad 2007 entre las cuentas de subvenciones del subgrupo 13 con las correspondientes cuentas de los grupos 8 y 9, y no así en el Plan General de Contabilidad de PYMES 2007.",
+        "c": "No existe ninguna diferencia al respecto entre ambos textos legales.",
+        "d": "Ninguna de las demás opciones es correcta."
+      },
+      "explicacion": "La diferencia clave radica en que el PGC Normal (2007) utiliza los grupos 8 y 9 para el registro de gastos e ingresos imputados al patrimonio neto (incluyendo subvenciones), lo que requiere asientos intermedios antes de llevarlas al subgrupo 13. El PGC de PYMES simplifica este proceso eliminando los grupos 8 y 9, permitiendo el registro directo en las cuentas del subgrupo 13.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Una empresa recibió del Gobierno de España en el año 200X una subvención destinada a financiar un programa de I+D+i que generará gastos el propio año 200X y los años 200X+1 y 200X+2. ¿Qué criterio de imputación de los ingresos a resultados asociados a dicha subvención ha de seguirse?",
+      "opciones": {
+        "a": "No puede imputarse la subvención a resultados porque está financiando gastos en lugar de inmovilizado.",
+        "b": "Ha de imputarse a resultados la subvención en su totalidad el año en el que finaliza el programa de I+D+i, esto es, el año 200X+2.",
+        "c": "Ha de imputarse a resultados la subvención en su totalidad el año de su concesión, esto es, el año 200X.",
+        "d": "Ha de imputarse la subvención a resultados los años 200X, 200X+1 y 200X+2, en función del devengo para cada uno de esos años de los gastos que está financiando."
+      },
+      "explicacion": "De acuerdo con el principio de correlación de ingresos y gastos, cuando una subvención se concede para financiar gastos específicos, su imputación a resultados como ingreso debe realizarse en los mismos ejercicios en los que se devenguen los gastos que dicha subvención está financiando.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 10,
+      "pregunta": "La diferencia fundamental entre una aportación de capital por parte de los socios y una subvención o donación entregada por los socios es:",
+      "opciones": {
+        "a": "No existe ninguna diferencia.",
+        "b": "La subvención o donación no altera el capital social de la empresa.",
+        "c": "La subvención o donación incrementaría los ingresos.",
+        "d": "La subvención o donación incrementaría la caja de la empresa."
+      },
+      "explicacion": "Aunque ambas operaciones aumentan los Fondos Propios, una aportación de capital implica un aumento formal de la cifra de 'Capital Social' (y generalmente la emisión de nuevas acciones o participaciones). En cambio, una subvención o donación de socios se registra en otras cuentas de patrimonio neto (como la cuenta 118) y no modifica la cifra estatutaria del Capital Social.",
       "respuesta_correcta": "b"
     }
   ]

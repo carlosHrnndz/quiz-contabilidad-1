@@ -1,0 +1,126 @@
+{
+  "unidad": 23,
+  "titulo": "Autoevaluación Unidad 23 - Contabilidad Financiera (Provisiones)",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "De las siguientes afirmaciones, relacionadas con el concepto de provisión, señalar cuál es verdadera:",
+      "opciones": {
+        "a": "Una provisión es una obligación futura.",
+        "b": "En una provisión el importe no se puede estimar de forma fiable.",
+        "c": "Es probable que requiera desprenderse de recursos económicos para cancelar la obligación.",
+        "d": "Tienen carácter exclusivamente financiero."
+      },
+      "explicacion": "Según el marco conceptual de la contabilidad, una provisión es una obligación presente surgida de sucesos pasados, para cuya cancelación es probable que la empresa tenga que desprenderse de recursos que incorporen beneficios económicos, y cuya cuantía o vencimiento son indeterminados pero pueden estimarse de forma fiable.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Con respecto a las provisiones, al cierre de ejercicio deberán actualizarse; ¿qué tipo de gasto origina el ajuste por actualización de dichas provisiones?",
+      "opciones": {
+        "a": "Gasto financiero.",
+        "b": "Gasto de explotación.",
+        "c": "Gasto extraordinario.",
+        "d": "Otros gastos."
+      },
+      "explicacion": "Las provisiones deben valorarse por el valor actual de la mejor estimación posible. El ajuste por actualización financiera de la provisión (por el paso del tiempo) se reconoce como un gasto financiero.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 3,
+      "pregunta": "En relación con los pasivos contingentes, ¿cuál de las siguientes afirmaciones es cierta?",
+      "opciones": {
+        "a": "Se pueden cuantificar de manera fiable.",
+        "b": "Deben ser reconocidos en el balance y en la cuenta de resultados.",
+        "c": "No se informará en la Memoria.",
+        "d": "Es una obligación posible o presente que probablemente no implique consumo de recursos económicos en el futuro."
+      },
+      "explicacion": "Un pasivo contingente es una obligación posible, o una obligación presente donde no es probable que se requiera una salida de recursos o no se puede estimar el importe con fiabilidad. A diferencia de las provisiones, no se reconocen en el balance, pero sí se informan en la Memoria.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Si la cuantía estimada (por ejemplo, una provisión por responsabilidades) es modificada porque se ha producido un incremento, su efecto en la cuenta de resultados se reflejará en:",
+      "opciones": {
+        "a": "Resultados financieros.",
+        "b": "Resultado de explotación.",
+        "c": "Resultado antes de impuestos.",
+        "d": "Resultados extraordinarios."
+      },
+      "explicacion": "Si la provisión tiene su origen en la actividad propia de la empresa (como responsabilidades operativas), el gasto por dotación o incremento de la provisión se considera un gasto de explotación.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Una empresa ha sido demandada por un trabajador por despido improcedente. Este tipo de juicios suelen durar menos de un año. ¿Debe la empresa reconocer una provisión?",
+      "opciones": {
+        "a": "Sí.",
+        "b": "No.",
+        "c": "Depende de la estimación que realice el abogado respecto a las posibles obligaciones de la empresa derivadas del juicio.",
+        "d": "Solo si el trabajador acepta la indemnización ofrecida."
+      },
+      "explicacion": "Para reconocer una provisión deben cumplirse tres requisitos: obligación presente, probabilidad de salida de recursos y estimación fiable. La opinión del abogado es crucial para determinar la probabilidad de que la empresa pierda el juicio y tenga que pagar (salida de recursos).",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "El PGC clasifica las provisiones en:",
+      "opciones": {
+        "a": "Contingentes y no contingentes.",
+        "b": "Corto y largo plazo.",
+        "c": "Activas y pasivas.",
+        "d": "Inmovilizadas y liquidas."
+      },
+      "explicacion": "El Plan General de Contabilidad clasifica las provisiones en el pasivo del balance según su vencimiento estimado: a largo plazo (Pasivo no corriente) y a corto plazo (Pasivo corriente).",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Los activos y pasivos contingentes:",
+      "opciones": {
+        "a": "Se reconocen en la cuenta de resultados.",
+        "b": "Se reconocen en el balance.",
+        "c": "Se reconocen en el patrimonio neto.",
+        "d": "No se reconocen ni en el balance ni en la cuenta de resultados."
+      },
+      "explicacion": "Los activos y pasivos contingentes no se reconocen en los estados financieros (balance o cuenta de resultados) porque no cumplen todos los criterios de reconocimiento (como la probabilidad o la fiabilidad en la medición). Sin embargo, su existencia debe ser revelada si es relevante.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Sobre los activos y pasivos contingentes:",
+      "opciones": {
+        "a": "No existe obligación de informar.",
+        "b": "Se informará en la memoria.",
+        "c": "Se informará en un documento de gestión.",
+        "d": "Se informará como resultados extraordinarios."
+      },
+      "explicacion": "Aunque no se registran contablemente en el balance, la normativa exige que se informe sobre la naturaleza y la estimación de los efectos financieros de los activos y pasivos contingentes en la memoria (notas a los estados financieros) para proporcionar una imagen fiel de la situación de la empresa.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "El importe por el cual se valorará una provisión:",
+      "opciones": {
+        "a": "Será el valor actual de los desembolsos que se espera realizar.",
+        "b": "Equivaldrá a un cálculo actuarial.",
+        "c": "Nunca se puede estimar con fiabilidad.",
+        "d": "Dependerá de los gastos generales de la empresa."
+      },
+      "explicacion": "Las provisiones se valoran por el valor actual de la mejor estimación posible del importe necesario para cancelar la obligación en la fecha de cierre, especialmente cuando el efecto financiero del paso del tiempo es significativo.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Si al cierre del ejercicio la empresa se da cuenta de que su estimación para una provisión es errónea:",
+      "opciones": {
+        "a": "No es necesario realizar ningún ajuste.",
+        "b": "Deberá reconocer un mayor activo.",
+        "c": "Ajustará la provisión registrando un gasto financiero.",
+        "d": "Solo ajustará si han pasado más de 6 meses desde el cierre."
+      },
+      "explicacion": "Las provisiones deben ser revisadas al final de cada ejercicio. Si la estimación cambia o se debe actualizar el valor por el paso del tiempo (actualización financiera), se ajusta el importe de la provisión contra la cuenta de resultados, registrándose comúnmente como un gasto financiero en el caso de actualizaciones por descuento.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}

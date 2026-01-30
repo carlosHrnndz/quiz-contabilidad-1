@@ -1,6 +1,6 @@
 {
   "unidad": 22,
-  "titulo": "Autoevaluación de Contabilidad en Moneda Extranjera",
+  "titulo": "Autoevaluación Unidad 22 - Contabilidad Financiera (Moneda Extranjera)",
   "preguntas": [
     {
       "numero": 1,
@@ -11,7 +11,7 @@
         "c": "Verdadero, pero se debe reconocer un beneficio.",
         "d": "Verdadero, pero se debe reconocer una pérdida."
       },
-      "explicacion": "Los activos no monetarios, como el inmovilizado material, se registran inicialmente al tipo de cambio de la fecha de transacción y no se revalorizan por cambios en la moneda. Por tanto, su amortización se basa siempre en ese coste histórico convertido a euros originalmente.",
+      "explicacion": "Los inmovilizados materiales adquiridos en moneda extranjera son partidas no monetarias. Se valoran al tipo de cambio histórico (fecha de transacción) y no se revalorizan al cierre. Por tanto, su amortización se calcula sobre ese coste histórico en euros, sin actualizar por variaciones en el tipo de cambio.",
       "respuesta_correcta": "b"
     },
     {
@@ -23,7 +23,7 @@
         "c": "Verdadero.",
         "d": "Verdadero, pero se debe reconocer una ganancia."
       },
-      "explicacion": "Para determinar si existe deterioro, se debe comparar el valor contable con el valor recuperable. Como el valor recuperable se estima en el momento actual (al cierre), es necesario utilizar el tipo de cambio vigente en esa fecha para reflejar la realidad económica del activo.",
+      "explicacion": "Para calcular el deterioro de valor de un activo no monetario en moneda extranjera, se compara su valor en libros (tipo histórico) con su importe recuperable. Si el importe recuperable se determina en moneda extranjera, este se debe convertir al tipo de cambio de cierre (fecha de valoración) para hacer la comparación homogénea en la moneda funcional.",
       "respuesta_correcta": "c"
     },
     {
@@ -35,7 +35,7 @@
         "c": "Deuda pública.",
         "d": "Fondo de Comercio."
       },
-      "explicacion": "Las partidas monetarias son aquellas que representan el derecho a recibir o la obligación de pagar una cantidad fija o determinable de unidades monetarias. La deuda pública, al ser un activo financiero de renta fija, se clasifica como tal.",
+      "explicacion": "Las partidas monetarias son unidades de moneda mantenidas, así como activos y pasivos que se van a recibir o pagar con una cantidad fija o determinable de unidades monetarias. La Deuda Pública (bonos, obligaciones) representa un derecho de cobro fijo o determinable, por lo que se considera un activo monetario. (Nota: 'Clientes' también suele ser monetaria, pero en este examen se señala específicamente la Deuda Pública).",
       "respuesta_correcta": "c"
     },
     {
@@ -47,7 +47,7 @@
         "c": "52.670 $.",
         "d": "17.820 $."
       },
-      "explicacion": "Se debe calcular el valor en euros de cada venta multiplicando las unidades por el precio en dólares y luego por el tipo de cambio: (1000*17*1,3) + (1020*17,5*1,2) + (990*18*1,3) = 22.100 + 21.420 + 23.166 = 66.686 €. El valor más cercano en las opciones es 66.680 €.",
+      "explicacion": "Se debe convertir cada venta a euros usando el tipo de cambio del día de la transacción (multiplicando el importe en dólares por el tipo de cambio dado, asumiendo cotización directa €/$ o factor de conversión dado):\n1) 1.000 u * 17 $ * 1,3 = 22.100 €\n2) 1.020 u * 17,5 $ * 1,2 = 21.420 €\n3) 990 u * 18 $ * 1,3 = 23.166 €\nTotal: 22.100 + 21.420 + 23.166 = 66.686 € (aprox 66.680 € en las opciones).",
       "respuesta_correcta": "a"
     },
     {
@@ -59,8 +59,68 @@
         "c": "Un crédito sobre un cliente.",
         "d": "Ninguna de las demás opciones es correcta."
       },
-      "explicacion": "Un crédito sobre un cliente representa un derecho de cobro de una cantidad de dinero ya pactada. Al ser un flujo de efectivo futuro fijado contractualmente, cumple perfectamente con la definición de partida monetaria según el PGC.",
+      "explicacion": "Un crédito sobre un cliente es un derecho a recibir una cantidad fija o determinable de dinero, lo cual es la definición exacta de una partida monetaria. Las existencias y los inmovilizados son partidas no monetarias.",
       "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Las diferencias de cambio que surjan al cierre del ejercicio al valorar clientes y deudores en moneda extranjera, han de reconocerse:",
+      "opciones": {
+        "a": "En la Cuenta de Pérdidas y Ganancias las negativas y en cuentas de patrimonio neto las positivas.",
+        "b": "En las correspondientes cuentas de patrimonio neto.",
+        "c": "En la Cuenta de Pérdidas y Ganancias del ejercicio en que surjan, pero sólo las negativas en aplicación del principio de prudencia.",
+        "d": "En la Cuenta de Pérdidas y Ganancias del ejercicio en que surjan."
+      },
+      "explicacion": "Según la normativa contable (como el PGC), las partidas monetarias (como clientes y deudores) en moneda extranjera se valoran al tipo de cambio de cierre. Las diferencias de cambio, tanto positivas como negativas, se imputan directamente a la Cuenta de Pérdidas y Ganancias del ejercicio en el que surgen.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Las diferencias de cambio surgidas al valorar la moneda extranjera, tanto positivas como negativas, que se originen al cierre del ejercicio, se reconocerán:",
+      "opciones": {
+        "a": "En la Cuenta de Pérdidas y Ganancias.",
+        "b": "En la Cuenta de Pérdidas y Ganancias si son positivas, y en cuentas de patrimonio neto si son negativas.",
+        "c": "En cuentas de patrimonio neto si no están realizados.",
+        "d": "Ninguna de las demás opciones es correcta."
+      },
+      "explicacion": "Al igual que con los deudores, la tesorería en moneda extranjera es una partida monetaria. Cualquier diferencia de valoración al cierre del ejercicio debe reconocerse inmediatamente como un ingreso o gasto financiero en la Cuenta de Pérdidas y Ganancias.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Las diferencias de cambio surgidas al cierre del ejercicio al valorar la deuda con un proveedor en moneda extranjera:",
+      "opciones": {
+        "a": "Se reconocerán en el patrimonio neto tanto si son positivas como negativas.",
+        "b": "Se reconocerán en la Cuenta de Pérdidas y Ganancias.",
+        "c": "Se reconocerán en la Cuenta de Pérdidas y Ganancias, pero sólo si son negativas.",
+        "d": "Se reconocerán en la Cuenta de Pérdidas y Ganancias, pero sólo si son positivas."
+      },
+      "explicacion": "Las deudas con proveedores son partidas monetarias. Las variaciones en el tipo de cambio al cierre del ejercicio generan diferencias que deben registrarse en la Cuenta de Pérdidas y Ganancias, independientemente de si son beneficios o pérdidas.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "La moneda de presentación es:",
+      "opciones": {
+        "a": "La moneda en que se formulan las cuentas anuales.",
+        "b": "La moneda funcional.",
+        "c": "La moneda oficial.",
+        "d": "El euro."
+      },
+      "explicacion": "La moneda de presentación se define específicamente como aquella en la que se presentan los estados financieros (cuentas anuales). No debe confundirse con la moneda funcional, que es la del entorno económico principal de la empresa, aunque a menudo coinciden.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 10,
+      "pregunta": "En el método del tipo de cambio al cierre:",
+      "opciones": {
+        "a": "Se emplean tipos de cambio estimados.",
+        "b": "Las partidas no monetarias del balance se convertirán utilizando los tipos de cambio históricos.",
+        "c": "Todos los bienes, derechos y obligaciones se convertirán utilizando el tipo de cambio vigente en la fecha de cada transacción.",
+        "d": "Todos los bienes, derechos y obligaciones se convertirán utilizando el tipo de cambio vigente en la fecha de cierre del ejercicio."
+      },
+      "explicacion": "El método del tipo de cambio de cierre (utilizado frecuentemente para convertir estados financieros de negocios en el extranjero) establece que los activos y pasivos (bienes, derechos y obligaciones) se convierten al tipo de cambio vigente en la fecha de cierre del balance.",
+      "respuesta_correcta": "d"
     }
   ]
 }
