@@ -580,7 +580,8 @@ class QuizApp {
         this.ui.modeBtn.innerText = icons[this.mode] || '🎓';
 
         this.setupCloudListener();
-        this.renderQuestion();
+        // Defer render to next frame to prevent click-through from "Comenzar" button
+        requestAnimationFrame(() => this.renderQuestion());
     }
 
     renderQuestion() {
