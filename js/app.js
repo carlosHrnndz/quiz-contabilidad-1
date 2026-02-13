@@ -795,7 +795,7 @@ class QuizApp {
         this.ui.btnPrev.addEventListener('click', () => this.prevQuestion());
         this.ui.btnPending.addEventListener('click', () => this.showPendingList());
         this.ui.btnWrong.addEventListener('click', () => this.showWrongList());
-        this.ui.btnRestart.addEventListener('click', () => this.resetProgress());
+        this.ui.btnRestart.addEventListener('click', () => this.showSplash());
         this.ui.btnHome.addEventListener('click', () => this.showSplash());
 
         this.ui.modeBtn.addEventListener('click', () => {
