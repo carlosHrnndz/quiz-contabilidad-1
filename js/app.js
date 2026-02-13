@@ -122,7 +122,15 @@ class QuizApp {
             // V7 Visuals Zoom
             modalImageZoom: document.getElementById('modal-image-zoom'),
             zoomedImage: document.getElementById('zoomed-image'),
-            btnCloseZoom: document.querySelector('.close-zoom')
+            btnCloseZoom: document.querySelector('.close-zoom'),
+
+            // V7 Leaderboard
+            btnRanking: document.getElementById('btn-ranking'),
+            modalLeaderboard: document.getElementById('modal-leaderboard'),
+            leaderboardList: document.getElementById('leaderboard-list'),
+            usernameInput: document.getElementById('username-input'),
+            btnSubmitScore: document.getElementById('btn-submit-score'),
+            btnCloseLeaderboard: document.getElementById('btn-close-leaderboard')
         };
 
         this.init();
@@ -226,6 +234,17 @@ class QuizApp {
         // Reset Progress
         if (this.ui.btnResetProgress) {
             this.ui.btnResetProgress.addEventListener('click', () => this.resetProgress());
+        }
+
+        // Ranking / Leaderboard (opens directly from splash)
+        if (this.ui.btnRanking) {
+            this.ui.btnRanking.addEventListener('click', () => this.openLeaderboard());
+        }
+        if (this.ui.btnCloseLeaderboard) {
+            this.ui.btnCloseLeaderboard.addEventListener('click', () => this.ui.modalLeaderboard.classList.add('hidden'));
+        }
+        if (this.ui.btnSubmitScore) {
+            this.ui.btnSubmitScore.addEventListener('click', () => this.submitScore());
         }
 
         this.ui.btnSelectAll.addEventListener('click', () => {
@@ -776,7 +795,7 @@ class QuizApp {
         this.ui.btnPrev.addEventListener('click', () => this.prevQuestion());
         this.ui.btnPending.addEventListener('click', () => this.showPendingList());
         this.ui.btnWrong.addEventListener('click', () => this.showWrongList());
-        this.ui.btnRestart.addEventListener('click', () => this.showSplash());
+        this.ui.btnRestart.addEventListener('click', () => this.resetProgress());
         this.ui.btnHome.addEventListener('click', () => this.showSplash());
 
         this.ui.modeBtn.addEventListener('click', () => {
