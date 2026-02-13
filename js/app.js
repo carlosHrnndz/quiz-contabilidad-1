@@ -34,7 +34,6 @@ class QuizApp {
             totalAttempts: 0,
             totalCorrect: 0,
             unitStats: {},
-            unitStats: {},
             questionHistory: {},
             srsData: {} // V7: SRS { id: { interval: 0, repetitions: 0, ef: 2.5, nextReview: 0 } }
         };
@@ -72,6 +71,7 @@ class QuizApp {
             btnStats: document.getElementById('btn-stats'),
             modalStats: document.getElementById('modal-stats'),
             btnCloseStats: document.getElementById('btn-close-stats'),
+            btnResetProgress: document.getElementById('btn-reset-progress'),
             statGlobalAccuracy: document.getElementById('global-accuracy'),
             statTotalAnswered: document.getElementById('total-answered'),
             weakUnitsList: document.getElementById('weak-units-list'),
@@ -222,6 +222,11 @@ class QuizApp {
             this.showStats();
         });
         this.ui.btnCloseStats.addEventListener('click', () => this.ui.modalStats.classList.add('hidden'));
+
+        // Reset Progress
+        if (this.ui.btnResetProgress) {
+            this.ui.btnResetProgress.addEventListener('click', () => this.resetProgress());
+        }
 
         this.ui.btnSelectAll.addEventListener('click', () => {
             document.querySelectorAll('.unit-chip').forEach(c => {
@@ -730,6 +735,40 @@ class QuizApp {
             });
         }
         this.ui.modalStats.classList.remove('hidden');
+    }
+
+    resetProgress() {
+        if (!confirm('⚠️ ¿Estás seguro? Se borrarán TODAS las estadísticas y el progreso guardado.')) return;
+
+        // Clear local storage
+        localStorage.removeItem(this.getStorageKey());
+
+        // Clear Firebase if connected
+        if (this.firebaseInitialized && this.sessionCode) {
+            try {
+                const ref = this.getFirebaseRef();
+                if (ref) ref.remove();
+            } catch (e) { console.warn('Error clearing Firebase:', e); }
+        }
+
+        // Reset in-memory state
+        this.globalStats = {
+            totalAttempts: 0,
+            totalCorrect: 0,
+            unitStats: {},
+            questionHistory: {},
+            srsData: {}
+        };
+        this.userAnswers = {};
+        this.pendingQuestions = new Set();
+        this.score = 0;
+        this.currentQuestionIndex = 0;
+        this.resumeAvailable = false;
+
+        // Close stats modal and refresh splash
+        this.ui.modalStats.classList.add('hidden');
+        this.showSplash();
+        alert('✅ Progreso eliminado correctamente.');
     }
 
     bindQuizEvents() {
